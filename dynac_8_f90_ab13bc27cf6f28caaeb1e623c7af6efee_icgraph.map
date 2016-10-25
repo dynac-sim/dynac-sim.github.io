@@ -1,5 +1,0 @@
-<map id="sb5" name="sb5">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a1c88f25c4dc0c9387a71cc9f757f1fcf" title="tsb5" alt="" coords="96,5,143,31"/>
-<area shape="rect" id="node4" href="$dynac_8_f.html#a67d9ab93e101459c81f646e5fdbe1892" title=" FUNCTION sb5(BETR,nrc) Transit time factor d5S(k)/dk5 (single cell) " alt="" coords="98,55,141,80"/>
-<area shape="rect" id="node3" href="$dynac_8_f.html#a0a2815cd5030661c2f5040349fd36707" title=" FUNCTION tsb5(BETR) Transit time factor d5S(k)/dk5 " alt="" coords="191,5,237,31"/>
-</map>

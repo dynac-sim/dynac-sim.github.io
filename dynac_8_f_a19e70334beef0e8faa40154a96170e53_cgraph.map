@@ -1,6 +1,5 @@
 <map id="tsb3" name="tsb3">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#aeb4c526a02d5b2e189336446110bf144" title="tsb3" alt="" coords="100,29,146,55"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#ad8dca9bd91268ec157ae63b02a3a0919" title="sb3" alt="" coords="197,5,239,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a0e9715b7ab9f5a1411a4a14a35feba8d" title="fone" alt="" coords="194,55,242,80"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aea47739b06e0631dc7387a8c79795861" title="fcav" alt="" coords="290,5,335,31"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#aec77e58c0d787703a60ab38cedbeaa32" title=" FUNCTION sb3(BETR,nrc) Transit time factor d3S(k)/dk3 (single cell) " alt="" coords="102,5,145,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a3e03f14db5f37db7b7845722b6d06339" title=" FUNCTION fone(Z) Electromagnetic field at the longitudinal point (z,0) The field harmonics are store..." alt="" coords="100,55,147,80"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#aea47739b06e0631dc7387a8c79795861" title=" FUNCTION fcav(xc,nrc) electromagnetic field at the position xc " alt="" coords="195,5,241,31"/>
 </map>

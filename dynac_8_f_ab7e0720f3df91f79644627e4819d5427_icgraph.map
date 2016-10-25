@@ -1,0 +1,15 @@
+<map id="sb1" name="sb1">
+<area shape="rect" id="node2" href="$dynac_8_f.html#ab9d4a3ac9f0e40fc3de76ee65e8d700a" title=" FUNCTION tsb1(BETR) Transit time factor ds(k)/dk (multi&#45;cells) " alt="" coords="96,177,143,203"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a09495bae17e8c266fa7c9ead60f4cea1" title=" SUBROUTINE crest(betr,eqvl,xpos,bkcr,ffield) called by RESTAY Look for the beta giving the maximun e..." alt="" coords="191,203,241,228"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a19e88952bbb6ddbd952ac7d60011cf78" title=" SUBROUTINE restay motion of particles in a cavity the field can be read from disk in the form (z..." alt="" coords="292,153,349,179"/>
+<area shape="rect" id="node14" href="$dynac_8_f.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title=" SUBROUTINE solfield(bcret,intgr) Solenoid with an arbitrary magnetic field " alt="" coords="289,203,352,228"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a50f4bf9b30e7988963f5e1b55fb62120" title=" PROGRAM DYNAC THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY " alt="" coords="400,179,457,204"/>
+<area shape="rect" id="node6" href="$dyndat_8f.html#a0ee9394ced9d09c60061c10258fb91a8" title="dyndat" alt="" coords="505,5,567,31"/>
+<area shape="rect" id="node7" href="$dyndat_8f.html#ac46ae085248753c09b8a2728f0beed08" title="wfile1" alt="" coords="508,55,564,80"/>
+<area shape="rect" id="node8" href="$dyndat_8f.html#a6163fb6deea7fa2b3f439d90ce8a0cb9" title="wfile2" alt="" coords="508,104,564,129"/>
+<area shape="rect" id="node9" href="$dyndat_8f.html#a48d701fc8b45d0b59789173b57a79c06" title="wfile3" alt="" coords="508,153,564,179"/>
+<area shape="rect" id="node10" href="$dyndat_8f.html#a34159f4d74567e5f8d5a348d07fd6cce" title="wfile10" alt="" coords="505,203,568,228"/>
+<area shape="rect" id="node11" href="$dyndat_8f.html#a63975dcacb6f9a0c7a4b381e58ec4dfc" title="wfile11" alt="" coords="505,252,567,277"/>
+<area shape="rect" id="node12" href="$dyndat_8f.html#a6cdd1811295a69779d7a3fa8f21acf82" title="wfile21" alt="" coords="505,301,568,327"/>
+<area shape="rect" id="node13" href="$dyndat_8f.html#ab92f66e9a66b206aabb942867e633071" title="wfile20" alt="" coords="505,351,568,376"/>
+</map>

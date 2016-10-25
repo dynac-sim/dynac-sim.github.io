@@ -1,51 +1,51 @@
 <map id="dynac" name="dynac">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a7f27d7290071eb6396ac48f69e296e25" title="mytime" alt="" coords="118,5,182,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a214784d06dd7ed35f8c026225132fbc5" title="monte" alt="" coords="121,55,179,80"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#ae36f48e89571e36931a8c4420850cecd" title="entre" alt="" coords="124,813,176,839"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#aa5ae6ddb14d28cd03c8fe11221d9d5bd" title="tiltbm" alt="" coords="248,813,301,839"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="emiprt" alt="" coords="359,940,418,965"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#a5285cc69c761c9ffb8cba18cf2aa49e0" title="adjrfq" alt="" coords="122,257,177,283"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a7564e6fce81b5b8d31d32aedbb3a0fc7" title="etac" alt="" coords="127,307,173,332"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="drift" alt="" coords="253,712,296,737"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="cesp" alt="" coords="364,589,413,615"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="hersc" alt="" coords="466,336,520,361"/>
-<area shape="rect" id="node12" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="qalva" alt="" coords="248,915,301,940"/>
-<area shape="rect" id="node13" href="$dynac_8_f90.html#ad4f0957cc155f080ad5bbc56a3dee998" title="zrotat" alt="" coords="361,1533,416,1559"/>
-<area shape="rect" id="node14" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="sextu" alt="" coords="248,964,301,989"/>
-<area shape="rect" id="node15" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="qasex" alt="" coords="246,515,303,540"/>
-<area shape="rect" id="node16" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="solnoid" alt="" coords="243,564,306,589"/>
-<area shape="rect" id="node17" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="solquad" alt="" coords="240,613,308,639"/>
-<area shape="rect" id="node18" href="$dynac_8_f90.html#a97af460c4b436d053cc08ff9a7dc57f2" title="aimalv" alt="" coords="244,663,304,688"/>
-<area shape="rect" id="node19" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="restay" alt="" coords="246,1040,303,1065"/>
-<area shape="rect" id="node20" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="etgap" alt="" coords="247,1252,302,1277"/>
-<area shape="rect" id="node21" href="$dynac_8_f90.html#a8ab7277d9ff5ae93cbb89f0a40d8ecce" title="fieldcav" alt="" coords="117,965,183,991"/>
-<area shape="rect" id="node22" href="$dynac_8_f90.html#a64f31ad8d6b820ffb908821b2fa5e44e" title="rharm" alt="" coords="122,1015,178,1040"/>
-<area shape="rect" id="node23" href="$dynac_8_f90.html#a5bb0e0fc441aaea4d3243c04d19850e0" title="bunparm" alt="" coords="237,1301,311,1327"/>
-<area shape="rect" id="node24" href="$dynac_8_f90.html#a9e1b9812d4b8600efe621729c04b4a4a" title="refer" alt="" coords="125,1116,174,1141"/>
-<area shape="rect" id="node25" href="$dynac_8_f90.html#a265157401936bfdbd713cef1f35b7584" title="schfdyn" alt="" coords="116,1165,183,1191"/>
-<area shape="rect" id="node26" href="$dynac_8_f90.html#a1957c5e8499d066ca48515c2357fd3db" title="tiltz" alt="" coords="129,1215,170,1240"/>
-<area shape="rect" id="node27" href="$dynac_8_f90.html#af703a1bf030c939a9b2252b7d5f2ea4a" title="chrefe" alt="" coords="121,1264,179,1289"/>
-<area shape="rect" id="node28" href="$dynac_8_f90.html#acb49b9466b90491ffc69dd3d18cd7480" title="rmami" alt="" coords="121,1313,179,1339"/>
-<area shape="rect" id="node29" href="$dynac_8_f90.html#ac2fc03d456581f268e6c7d0126c5b569" title="aliner" alt="" coords="123,1363,177,1388"/>
-<area shape="rect" id="node30" href="$dynac_8_f90.html#a7a54f0abc2e7bebd4b0f9568f3c4e49c" title="accept" alt="" coords="120,2168,180,2193"/>
-<area shape="rect" id="node31" href="$dynac_8_f90.html#adf80847cce59881802f3c768876dfd32" title="ytzp" alt="" coords="251,2269,297,2295"/>
-<area shape="rect" id="node32" href="$dynac_8_f90.html#a6bf5566d09dbfe3010100db259908f50" title="area" alt="" coords="365,2295,413,2320"/>
-<area shape="rect" id="node33" href="$dynac_8_f90.html#a0b470468e8081f232417c7dce4d64049" title="prbeam" alt="" coords="117,1565,183,1591"/>
-<area shape="rect" id="node34" href="$dynac_8_f90.html#a823d4f46ee703bf042aada8826b2b1a9" title="profil" alt="" coords="125,1615,175,1640"/>
-<area shape="rect" id="node35" href="$dynac_8_f90.html#af13a103e91b675b43ae86f49898c7deb" title="chase" alt="" coords="121,1664,178,1689"/>
-<area shape="rect" id="node36" href="$dynac_8_f90.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title="cpardyn" alt="" coords="115,1713,184,1739"/>
-<area shape="rect" id="node37" href="$dynac_8_f90.html#a6968ad62b648dc1c4f6381c4134ed473" title="stripp" alt="" coords="247,1484,301,1509"/>
-<area shape="rect" id="node38" href="$dynac_8_f90.html#a2682144bd484a904920640c5ec89319e" title="steer" alt="" coords="124,1815,175,1840"/>
-<area shape="rect" id="node39" href="$dynac_8_f90.html#a7a79b53a6306fdd7e180b904b263d436" title="grcomp" alt="" coords="117,1864,183,1889"/>
-<area shape="rect" id="node40" href="$dynac_8_f90.html#ac30f0b8284e8e81a0879c40951623588" title="fdrift" alt="" coords="126,712,173,737"/>
-<area shape="rect" id="node41" href="$dynac_8_f90.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title="solfield" alt="" coords="243,367,306,392"/>
-<area shape="rect" id="node42" href="$dynac_8_f90.html#af97eaafe8944d301105cb8007175c419" title="egun" alt="" coords="249,416,300,441"/>
-<area shape="rect" id="node43" href="$dynac_8_f90.html#a98defa81cb4b91bb711bd48502cd6431" title="compress" alt="" coords="110,2067,189,2092"/>
-<area shape="rect" id="node44" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="qelec" alt="" coords="248,1533,301,1559"/>
-<area shape="rect" id="node45" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="qfk" alt="" coords="255,1583,294,1608"/>
-<area shape="rect" id="node46" href="$dynac_8_f90.html#a882ad36e718ea53afe6fec1edadbdd6b" title="cavnum" alt="" coords="240,1824,308,1849"/>
-<area shape="rect" id="node47" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="238,465,310,491"/>
-<area shape="rect" id="node48" href="$dynac_8_f90.html#a5a965b6f9532b45faa0d00cfcfaa6f6f" title="rfkick" alt="" coords="248,1887,301,1912"/>
-<area shape="rect" id="node49" href="$dynac_8_f90.html#ade3881f38ff2a79e1fa255c49279c313" title="daves" alt="" coords="121,2371,178,2396"/>
-<area shape="rect" id="node50" href="$dynac_8_f90.html#a79ea36f2824c48c4f14623ccf36ca3c3" title="eugwrt" alt="" coords="119,2420,180,2445"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a7f27d7290071eb6396ac48f69e296e25" title=" SUBROUTINE mytime get system time and convert it to an ascii string " alt="" coords="118,5,182,31"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a214784d06dd7ed35f8c026225132fbc5" title=" SUBROUTINE monte random generation of the 6D coordinates of the cloud of particles LOI : 1 IMAX part..." alt="" coords="121,55,179,80"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#ae36f48e89571e36931a8c4420850cecd" title=" SUBROUTINE entre define some input beam characteristics uem : Rest mass in MeV " alt="" coords="124,1413,176,1439"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#aa5ae6ddb14d28cd03c8fe11221d9d5bd" title=" SUBROUTINE tiltbm(icg) tilt and shift of the beam with respect to the cog TIPHA : Shift on the phase..." alt="" coords="248,1053,301,1079"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#a0f4034a8c7f1c7194932203a6172be8a" title=" SUBROUTINE emiprt(L) following EMIT or EMITL card, store data in arrays to be printed by subroutine ..." alt="" coords="359,839,418,864"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#a5285cc69c761c9ffb8cba18cf2aa49e0" title=" SUBROUTINE adjrfq read the coordinates of particles from file " alt="" coords="122,257,177,283"/>
+<area shape="rect" id="node8" href="$dynac_8_f.html#a7564e6fce81b5b8d31d32aedbb3a0fc7" title=" SUBROUTINE etac Several charge states in the bunch, generated randomly ENTRY : N : Number of charge ..." alt="" coords="251,1155,298,1180"/>
+<area shape="rect" id="node9" href="$dynac_8_f.html#addb2ec0bcf630af70f6b1f5725711e29" title=" SUBROUTINE drift(dl) DRIFT LENGHT space charge computation at the middle of the drift ..." alt="" coords="253,639,296,664"/>
+<area shape="rect" id="node10" href="$dynac_8_f.html#a277be55d7493c5e416c4305460bc2812" title=" SUBROUTINE cesp(xlqua) select the space charge method (optical lenses) " alt="" coords="364,516,413,541"/>
+<area shape="rect" id="node11" href="$dynac_8_f.html#aec87e116a701268596ced96cdc49af21" title=" SUBROUTINE hersc(ini) space charge method: HERSC " alt="" coords="466,299,520,324"/>
+<area shape="rect" id="node12" href="$dynac_8_f.html#a4bebd1a9e4da83d8451b51142c55a51d" title=" SUBROUTINE qalva(bquad,xlqua,rg) QUADRUPOLE space charge computations at the middle of the lens BQUA..." alt="" coords="248,1451,301,1476"/>
+<area shape="rect" id="node13" href="$dynac_8_f.html#ad4f0957cc155f080ad5bbc56a3dee998" title=" SUBROUTINE zrotat(zrot) BEAM ROTATION the transverse coordinates X and Y may be rotated through an a..." alt="" coords="361,1303,416,1328"/>
+<area shape="rect" id="node14" href="$dynac_8_f.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title=" SUBROUTINE sextu(imk2,arg,xlsex,rg) magnetic sextupole Space charge at the middle of the lens ..." alt="" coords="248,740,301,765"/>
+<area shape="rect" id="node15" href="$dynac_8_f.html#a9d9f4ec48922e34909dc9becb429b96c" title=" SUBROUTINE qasex(iksq,args,argq,xlqua,rg) quadrupole associated sextupole field space charge computa..." alt="" coords="246,589,303,615"/>
+<area shape="rect" id="node16" href="$dynac_8_f.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title=" SUBROUTINE solnoid(imks,arg,xlsol) SOLENOID (fringe&#45;fields are included in the transport matrix) spa..." alt="" coords="243,293,306,319"/>
+<area shape="rect" id="node17" href="$dynac_8_f.html#a07e9d54c1ec138291b7227967a66fdf1" title=" SUBROUTINE solquad(iksq,args,argq,xlsol,rg) SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD space ch..." alt="" coords="240,343,308,368"/>
+<area shape="rect" id="node18" href="$dynac_8_f.html#ae178356a852e0594744305e2c0bcb045" title=" SUBROUTINE aimalv (ANGL,RMO,BAIM,XN,XB,EK1,EK2,PENT1,RAB1, SK1,SK2,PENT2,RAB2) FIRST AND SECOND orde..." alt="" coords="244,392,304,417"/>
+<area shape="rect" id="node19" href="$dynac_8_f.html#a19e88952bbb6ddbd952ac7d60011cf78" title=" SUBROUTINE restay motion of particles in a cavity the field can be read from disk in the form (z..." alt="" coords="246,789,303,815"/>
+<area shape="rect" id="node20" href="$dynac_8_f.html#a14d25e771105f716a7d1a43d7a81353b" title=" SUBROUTINE etgap single cell of a DTL (CAVSC) " alt="" coords="247,839,302,864"/>
+<area shape="rect" id="node21" href="$dynac_8_f.html#a8ab7277d9ff5ae93cbb89f0a40d8ecce" title=" SUBROUTINE fieldcav(atte) read from disk the electromagnetic field in the form (z,E(z)) SUPERFISH units: z(m) E(z) (Volt/m) converted to: z(cm) E(z) (MVolt/cm) " alt="" coords="117,967,183,992"/>
+<area shape="rect" id="node22" href="$dynac_8_f.html#a64f31ad8d6b820ffb908821b2fa5e44e" title=" SUBROUTINE rharm the field is in the form of a Fourier series expansion " alt="" coords="122,1016,178,1041"/>
+<area shape="rect" id="node23" href="$dynac_8_f.html#a5bb0e0fc441aaea4d3243c04d19850e0" title=" SUBROUTINE bunparm(v,dp,harm,prlim) BUNCHER (NO SPACE CHARGE EFFECT) " alt="" coords="237,888,311,913"/>
+<area shape="rect" id="node24" href="$dynac_8_f.html#a9e1b9812d4b8600efe621729c04b4a4a" title=" SUBROUTINE refer change the longitudinal position of the reference " alt="" coords="125,1117,174,1143"/>
+<area shape="rect" id="node25" href="$dynac_8_f.html#a265157401936bfdbd713cef1f35b7584" title=" SUBROUTINE schfdyn Input datas for SCHEFF SCE(2)=r extension in rms multiples SCE(3)=z half extensio..." alt="" coords="116,1167,183,1192"/>
+<area shape="rect" id="node26" href="$dynac_8_f.html#a1957c5e8499d066ca48515c2357fd3db" title=" SUBROUTINE tiltz(tilta) Skew the right ellipse generated by GEBEAM in the phase plane (x..." alt="" coords="129,1216,170,1241"/>
+<area shape="rect" id="node27" href="$dynac_8_f.html#af703a1bf030c939a9b2252b7d5f2ea4a" title=" SUBROUTINE chrefe change of reference frame ENTRY : XC YC A XC : DISPLACEMENT IN THE HORIZONTAL DIRE..." alt="" coords="121,1265,179,1291"/>
+<area shape="rect" id="node28" href="$dynac_8_f.html#acb49b9466b90491ffc69dd3d18cd7480" title=" SUBROUTINE rmami activate the time of flight for bunchers, cavities and accelerating gaps ..." alt="" coords="121,1315,179,1340"/>
+<area shape="rect" id="node29" href="$dynac_8_f.html#ac2fc03d456581f268e6c7d0126c5b569" title=" SUBROUTINE aliner ALIGNMENT errors: HORIZONTAL : XL(cm) XLP(mrad) VERTICAL : YL(cm) YLP(mrad) ..." alt="" coords="123,1364,177,1389"/>
+<area shape="rect" id="node30" href="$dynac_8_f.html#a7a54f0abc2e7bebd4b0f9568f3c4e49c" title=" SUBROUTINE accept computes a physical beam acceptance at the entrance of the machine ..." alt="" coords="120,2168,180,2193"/>
+<area shape="rect" id="node31" href="$dynac_8_f.html#adf80847cce59881802f3c768876dfd32" title=" SUBROUTINE ytzp STORAGE OF PARTICLE COORDINATES FOR PLOTS " alt="" coords="251,2219,297,2244"/>
+<area shape="rect" id="node32" href="$dynac_8_f.html#a6bf5566d09dbfe3010100db259908f50" title=" SUBROUTINE area(init) selection of the regions in the space x/a, y/b and z/c. The values a..." alt="" coords="365,2269,413,2295"/>
+<area shape="rect" id="node33" href="$dynac_8_f.html#ad1f2142f9f308334457f38d17cfef17a" title=" SUBROUTINE prbeam(iflg,wfile,fromrfq) PRINT OF PARTICLE COORDINATES " alt="" coords="117,1565,183,1591"/>
+<area shape="rect" id="node34" href="$dynac_8_f.html#a823d4f46ee703bf042aada8826b2b1a9" title=" SUBROUTINE profil Store header and envelopes in a binary file for graphics post&#45;processor ..." alt="" coords="125,1615,175,1640"/>
+<area shape="rect" id="node35" href="$dynac_8_f.html#af13a103e91b675b43ae86f49898c7deb" title=" SUBROUTINE chase analysis of emittance by elimination of remote particles read the parameters and pr..." alt="" coords="121,1664,178,1689"/>
+<area shape="rect" id="node36" href="$dynac_8_f.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title=" SUBROUTINE cpardyn(pib) — make up a list of cell by cell RFQ data based on a file generated by the ..." alt="" coords="115,1713,184,1739"/>
+<area shape="rect" id="node37" href="$dynac_8_f.html#a6968ad62b648dc1c4f6381c4134ed473" title=" SUBROUTINE stripp solid stripper foils for low velocity hadron particles " alt="" coords="247,1204,301,1229"/>
+<area shape="rect" id="node38" href="$dynac_8_f.html#a2682144bd484a904920640c5ec89319e" title=" SUBROUTINE steer(fld,nvf) TRANSFORM BEAM THRU THIN STEERER &#45;— MAGNETIC STEERER &#45;— PARAMETERS: fld ..." alt="" coords="124,1815,175,1840"/>
+<area shape="rect" id="node39" href="$dynac_8_f.html#a7a79b53a6306fdd7e180b904b263d436" title=" SUBROUTINE grcomp(text,iskale) routine for plots " alt="" coords="117,1864,183,1889"/>
+<area shape="rect" id="node40" href="$dynac_8_f.html#ac30f0b8284e8e81a0879c40951623588" title=" SUBROUTINE fdrift(xl,npart,imit) DIVIDE A DRIFT LENGHT OF :XL CM IN :NPART PARTIAL DRIFTS This will ..." alt="" coords="126,663,173,688"/>
+<area shape="rect" id="node41" href="$dynac_8_f.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title=" SUBROUTINE solfield(bcret,intgr) Solenoid with an arbitrary magnetic field " alt="" coords="243,441,306,467"/>
+<area shape="rect" id="node42" href="$dynac_8_f.html#af97eaafe8944d301105cb8007175c419" title=" SUBROUTINE egun(fmult,indp) method:Bode&#39;s rule read the axial field of the DC gun field from disk z ..." alt="" coords="249,491,300,516"/>
+<area shape="rect" id="node43" href="$dynac_8_f.html#a98defa81cb4b91bb711bd48502cd6431" title=" SUBROUTINE compress(pib) PRINT OF PARTICLE COORDINATES " alt="" coords="110,2067,189,2092"/>
+<area shape="rect" id="node44" href="$dynac_8_f.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title=" SUBROUTINE qelec(volt,xlqua,rs) electrostatic quadrupole space charge computation at the middle of t..." alt="" coords="248,1253,301,1279"/>
+<area shape="rect" id="node45" href="$dynac_8_f.html#af85cd57d0e9cbb1752f342e7855c097e" title=" SUBROUTINE qfk (ityqu,arg,xlqua,rs) electrostatic or magnetic quadrupole based on the strength K2 sp..." alt="" coords="255,1303,294,1328"/>
+<area shape="rect" id="node46" href="$dynac_8_f.html#a882ad36e718ea53afe6fec1edadbdd6b" title=" SUBROUTINE cavnum numerical computations of the dynamic in cavities or gap the field can be read fro..." alt="" coords="240,1352,308,1377"/>
+<area shape="rect" id="node47" href="$dynac_8_f.html#aca60ec3a547a015a94a435acd66ae23f" title=" SUBROUTINE e_deflec characteristics of the deflector (central trajectory) input parameters nsector: ..." alt="" coords="238,540,310,565"/>
+<area shape="rect" id="node48" href="$dynac_8_f.html#a5a965b6f9532b45faa0d00cfcfaa6f6f" title=" SUBROUTINE rfkick(v,dp,harm,nvf) RFKICK (NO SPACE CHARGE EFFECT) " alt="" coords="248,1401,301,1427"/>
+<area shape="rect" id="node49" href="$dynac_8_f.html#a91b114ea276120c741fc2bb1a957f54d" title=" SUBROUTINE daves(beame) Write the characteristics of the beam to the disk " alt="" coords="121,2371,178,2396"/>
+<area shape="rect" id="node50" href="$dynac_8_f.html#a79ea36f2824c48c4f14623ccf36ca3c3" title=" SUBROUTINE eugwrt This routine writes the dynac.print file " alt="" coords="119,2420,180,2445"/>
 </map>

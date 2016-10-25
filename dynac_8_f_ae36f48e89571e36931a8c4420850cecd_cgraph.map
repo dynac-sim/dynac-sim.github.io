@@ -1,12 +1,12 @@
 <map id="entre" name="entre">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#aa5ae6ddb14d28cd03c8fe11221d9d5bd" title="tiltbm" alt="" coords="108,80,161,105"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="emiprt" alt="" coords="105,231,163,256"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="cdg" alt="" coords="331,105,374,131"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="ext2" alt="" coords="329,5,375,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="218,55,268,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="zrotap" alt="" coords="323,55,381,80"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="ext2d" alt="" coords="216,356,270,381"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="chasel" alt="" coords="213,156,273,181"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="chasex" alt="" coords="211,205,275,231"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="chasey" alt="" coords="211,307,275,332"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#aa5ae6ddb14d28cd03c8fe11221d9d5bd" title=" SUBROUTINE tiltbm(icg) tilt and shift of the beam with respect to the cog TIPHA : Shift on the phase..." alt="" coords="108,80,161,105"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#a0f4034a8c7f1c7194932203a6172be8a" title=" SUBROUTINE emiprt(L) following EMIT or EMITL card, store data in arrays to be printed by subroutine ..." alt="" coords="105,231,163,256"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a97d1105ec78bcc1f743322ee7a680aa6" title=" SUBROUTINE cdg(IDCH) Calculate the c.o.g. of the bunch IDCH EQ 1: WITH CHASE IDCH NE 1: OTHERWISE co..." alt="" coords="331,105,374,131"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a12e97796bd17bd51652ea192faf78a0b" title=" SUBROUTINE ext2(IDCH) Looks for average extensions squared and return them in array exten Used in th..." alt="" coords="329,5,375,31"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a881e0a9ceaa69799a037634203635eec" title=" SUBROUTINE stapl(zpos) the statistics in EXT2 " alt="" coords="218,55,268,80"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#a04be1f67aa572b7c0644382c292537ae" title=" SUBROUTINE zrotap(zrot) BEAM ROTATION the transverse coordinates X and Y may be rotated through an a..." alt="" coords="323,55,381,80"/>
+<area shape="rect" id="node8" href="$dynac_8_f.html#ab2a96d6fb0da33dd74f8950ab39e85e9" title=" SUBROUTINE ext2d(IDCH) Look for average extensions squared and return them in array exten Used in th..." alt="" coords="216,356,270,381"/>
+<area shape="rect" id="node9" href="$dynac_8_f.html#af32bc74393be6ab332bfe5dcbc6e8715" title=" SUBROUTINE chasel analysis of emittance by elimination of remote particles in the z&#45;direction ..." alt="" coords="213,156,273,181"/>
+<area shape="rect" id="node10" href="$dynac_8_f.html#adcc921f0ce0e879232c064004365ff9d" title=" SUBROUTINE chasex analysis of emittance by elimination of remote particles in the x&#45;direction ..." alt="" coords="211,205,275,231"/>
+<area shape="rect" id="node11" href="$dynac_8_f.html#a20153f9a1e928872e3a59ec6b1fdec4b" title=" SUBROUTINE chasey analysis of emittance by elimination of remote particles in the y&#45;direction ..." alt="" coords="211,307,275,332"/>
 </map>

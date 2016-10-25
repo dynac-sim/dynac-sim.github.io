@@ -1,51 +1,51 @@
 <map id="restay" name="restay">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#acb12c6408a268725b0e03c012f166f36" title="tta0" alt="" coords="230,328,273,353"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a13964a07aa9bf1b75f017cae7e3c8240" title="tsb0" alt="" coords="228,379,275,404"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="115,581,165,607"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="cdg" alt="" coords="230,633,273,659"/>
-<area shape="rect" id="node12" href="$dynac_8_f90.html#a76ca58eb457f0ec120e239833e505f5c" title="statis" alt="" coords="114,683,166,708"/>
-<area shape="rect" id="node13" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="ext2d" alt="" coords="224,685,278,711"/>
-<area shape="rect" id="node14" href="$dynac_8_f90.html#a3b41e2443494df94d57251012ade34bd" title="tta1" alt="" coords="230,431,273,456"/>
-<area shape="rect" id="node16" href="$dynac_8_f90.html#a9c3ae90e9327ce05149e6dd73385415e" title="tta2" alt="" coords="230,24,273,49"/>
-<area shape="rect" id="node18" href="$dynac_8_f90.html#ad4ca54e704954b678b8b5db41939f840" title="tta3" alt="" coords="230,75,273,100"/>
-<area shape="rect" id="node20" href="$dynac_8_f90.html#a46584587baf19ce8cc07f93c5538ad75" title="tta4" alt="" coords="230,125,273,151"/>
-<area shape="rect" id="node22" href="$dynac_8_f90.html#a1ab8d4755e09f5e96ceb95ac978dcfff" title="tsb1" alt="" coords="228,481,275,507"/>
-<area shape="rect" id="node24" href="$dynac_8_f90.html#addb88bdd18e594c021df9761ebcfe0e6" title="tsb2" alt="" coords="228,176,275,201"/>
-<area shape="rect" id="node26" href="$dynac_8_f90.html#aeb4c526a02d5b2e189336446110bf144" title="tsb3" alt="" coords="228,227,275,252"/>
-<area shape="rect" id="node28" href="$dynac_8_f90.html#a3b699cdf4a59533dde0f95ead6c9cf79" title="tsb4" alt="" coords="228,277,275,303"/>
-<area shape="rect" id="node30" href="$dynac_8_f90.html#a09495bae17e8c266fa7c9ead60f4cea1" title="crest" alt="" coords="115,429,165,455"/>
-<area shape="rect" id="node31" href="$dynac_8_f90.html#a590f4fc793d1e0d4900e2ff6a73223c6" title="xitl0" alt="" coords="118,833,163,859"/>
-<area shape="rect" id="node32" href="$dynac_8_f90.html#ac90e6b9b2d68ec78d3db3053d4e31fe2" title="xitl3" alt="" coords="118,883,163,908"/>
-<area shape="rect" id="node33" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="gap" alt="" coords="118,1104,162,1129"/>
-<area shape="rect" id="node47" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="emiprt" alt="" coords="111,784,169,809"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a2c86499a1a629649dade2bdcc66ed37d" title="ta0" alt="" coords="344,351,384,376"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a0e9715b7ab9f5a1411a4a14a35feba8d" title="fone" alt="" coords="340,252,387,277"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aea47739b06e0631dc7387a8c79795861" title="fcav" alt="" coords="442,252,488,277"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#aebc8f7e5bb5962a08f54033168470e6e" title="sb0" alt="" coords="342,400,385,425"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="zrotap" alt="" coords="222,532,281,557"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="ext2" alt="" coords="228,581,275,607"/>
-<area shape="rect" id="node15" href="$dynac_8_f90.html#a826652baf8a67c1e9fba6012c7630e2a" title="ta1" alt="" coords="344,449,384,475"/>
-<area shape="rect" id="node17" href="$dynac_8_f90.html#a5222c55d62d4ad71addf3418c5834313" title="ta2" alt="" coords="344,5,384,31"/>
-<area shape="rect" id="node19" href="$dynac_8_f90.html#ae3ed4315eb2e622d2938d308c327279c" title="ta3" alt="" coords="344,55,384,80"/>
-<area shape="rect" id="node21" href="$dynac_8_f90.html#adbdfed0a3e36151bd52aa019d194afea" title="ta4" alt="" coords="344,104,384,129"/>
-<area shape="rect" id="node23" href="$dynac_8_f90.html#a2086e50a90248b60aba9ac9495fbc6ae" title="sb1" alt="" coords="342,499,385,524"/>
-<area shape="rect" id="node25" href="$dynac_8_f90.html#a4a9f53f8ec8e13f5df14e76a09b48b61" title="sb2" alt="" coords="342,153,385,179"/>
-<area shape="rect" id="node27" href="$dynac_8_f90.html#ad8dca9bd91268ec157ae63b02a3a0919" title="sb3" alt="" coords="342,203,385,228"/>
-<area shape="rect" id="node29" href="$dynac_8_f90.html#a593f7e82789d6d47053dd167f5bd8f11" title="sb4" alt="" coords="342,301,385,327"/>
-<area shape="rect" id="node34" href="$dynac_8_f90.html#a1da2b899ff818dd5daa6bb2e26590184" title="randali" alt="" coords="221,1477,282,1503"/>
-<area shape="rect" id="node35" href="$dynac_8_f90.html#a1857031432bd0b0751cf5897a727920e" title="xtypl1" alt="" coords="223,883,279,908"/>
-<area shape="rect" id="node36" href="$dynac_8_f90.html#a8dcb4490fb5f9f0f8545f3467962e878" title="xtypl2" alt="" coords="223,932,279,957"/>
-<area shape="rect" id="node37" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="xtyplp1" alt="" coords="220,981,283,1007"/>
-<area shape="rect" id="node38" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="xtylpk" alt="" coords="224,1031,279,1056"/>
-<area shape="rect" id="node39" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="xtypj" alt="" coords="227,1080,276,1105"/>
-<area shape="rect" id="node40" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="xtypm" alt="" coords="223,1129,280,1155"/>
-<area shape="rect" id="node41" href="$dynac_8_f90.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title="boucle" alt="" coords="221,1179,282,1204"/>
-<area shape="rect" id="node42" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="333,1303,394,1328"/>
-<area shape="rect" id="node43" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="hersc" alt="" coords="224,1379,278,1404"/>
-<area shape="rect" id="node44" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="schermi" alt="" coords="217,1228,285,1253"/>
-<area shape="rect" id="node45" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="scheff1" alt="" coords="219,1428,283,1453"/>
-<area shape="rect" id="node46" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject" alt="" coords="224,1277,278,1303"/>
-<area shape="rect" id="node48" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="chasel" alt="" coords="221,735,281,760"/>
-<area shape="rect" id="node49" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="chasex" alt="" coords="220,784,283,809"/>
-<area shape="rect" id="node50" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="chasey" alt="" coords="220,833,283,859"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#acb12c6408a268725b0e03c012f166f36" title=" FUNCTION tta0(betr) Transit time factor t(k) (multi&#45;cells) " alt="" coords="230,328,273,353"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#ad0c6645ade9e4e208199ee9807ee9065" title=" FUNCTION tsb0(BETR) Transit time factor s(k) (multi&#45;cells) " alt="" coords="228,379,275,404"/>
+<area shape="rect" id="node8" href="$dynac_8_f.html#a881e0a9ceaa69799a037634203635eec" title=" SUBROUTINE stapl(zpos) the statistics in EXT2 " alt="" coords="115,581,165,607"/>
+<area shape="rect" id="node10" href="$dynac_8_f.html#a97d1105ec78bcc1f743322ee7a680aa6" title=" SUBROUTINE cdg(IDCH) Calculate the c.o.g. of the bunch IDCH EQ 1: WITH CHASE IDCH NE 1: OTHERWISE co..." alt="" coords="230,633,273,659"/>
+<area shape="rect" id="node12" href="$dynac_8_f.html#a76ca58eb457f0ec120e239833e505f5c" title=" SUBROUTINE statis statitics of the 6&#45;d ellipsoid (for print) calls EXT2D: exten(1) : Sum( dE(i)*dE(i..." alt="" coords="114,683,166,708"/>
+<area shape="rect" id="node13" href="$dynac_8_f.html#ab2a96d6fb0da33dd74f8950ab39e85e9" title=" SUBROUTINE ext2d(IDCH) Look for average extensions squared and return them in array exten Used in th..." alt="" coords="224,685,278,711"/>
+<area shape="rect" id="node14" href="$dynac_8_f.html#aafac64dac144718143291f3d4a5e5159" title=" FUNCTION tta1(BETR) Transit time factor dT(k)/dk (multi&#45;cells) " alt="" coords="230,431,273,456"/>
+<area shape="rect" id="node16" href="$dynac_8_f.html#ab816f8ae201b53d0fa86ec940b15e2b7" title=" FUNCTION tta2(BETR) Transit time factor d2T(k)/dk2 (multi&#45;cells) " alt="" coords="230,24,273,49"/>
+<area shape="rect" id="node18" href="$dynac_8_f.html#a9767a1d594b01601e5a447a622281e1d" title=" FUNCTION tta3(BETR) Transit time factor d3T(k)/dk2 (multi&#45;cells) " alt="" coords="230,75,273,100"/>
+<area shape="rect" id="node20" href="$dynac_8_f.html#a501cc028bdae36f7164d25de562ddfc3" title=" FUNCTION tta4(BETR) Transit time factor d4T(k)/dk4 (multi&#45;cells) " alt="" coords="230,125,273,151"/>
+<area shape="rect" id="node22" href="$dynac_8_f.html#ab9d4a3ac9f0e40fc3de76ee65e8d700a" title=" FUNCTION tsb1(BETR) Transit time factor ds(k)/dk (multi&#45;cells) " alt="" coords="228,481,275,507"/>
+<area shape="rect" id="node24" href="$dynac_8_f.html#a7344921540791e8ffb1661ffc25a58c5" title=" FUNCTION tsb2(BETR) Transit time factor d2S(k)/dk2 (multi&#45;cells) " alt="" coords="228,176,275,201"/>
+<area shape="rect" id="node26" href="$dynac_8_f.html#a19e70334beef0e8faa40154a96170e53" title=" FUNCTION tsb3(BETR) Transit time factor d3S(k)/dk3 (multi&#45;cells) " alt="" coords="228,227,275,252"/>
+<area shape="rect" id="node28" href="$dynac_8_f.html#a100eba0071aecf0225022709c83130f8" title=" FUNCTION tsb4(BETR) Transit time factor d4S(k)/dk5 (multi cells) " alt="" coords="228,277,275,303"/>
+<area shape="rect" id="node30" href="$dynac_8_f.html#a09495bae17e8c266fa7c9ead60f4cea1" title=" SUBROUTINE crest(betr,eqvl,xpos,bkcr,ffield) called by RESTAY Look for the beta giving the maximun e..." alt="" coords="115,429,165,455"/>
+<area shape="rect" id="node31" href="$dynac_8_f.html#a6b9fd6b0d47c3375d3ae6a05cf07ea89" title=" FUNCTION xitl0(GAMI,GAMS,BETR,SAPHI,QQC) called by RESTAY and ETGAP dynamics computations ..." alt="" coords="118,833,163,859"/>
+<area shape="rect" id="node32" href="$dynac_8_f.html#acf6849008a5e6cf1a65e79fa571239e7" title=" FUNCTION xitl3(GAMI,GAMS,BETR,NIT,SAPHI,QQC) called by RESTAY and ETGAP INTEGRAL S ( EZG * Z/(BETA*G..." alt="" coords="118,883,163,908"/>
+<area shape="rect" id="node33" href="$dynac_8_f.html#a4a57fc6b7daec85b4f190af5840380e9" title=" SUBROUTINE gap(GAMREF,SAPHI,GAMS,DELPHR) ETGAP or RESTAY ==&gt; GAP dynamics in the accelerating elemen..." alt="" coords="118,1104,162,1129"/>
+<area shape="rect" id="node47" href="$dynac_8_f.html#a0f4034a8c7f1c7194932203a6172be8a" title=" SUBROUTINE emiprt(L) following EMIT or EMITL card, store data in arrays to be printed by subroutine ..." alt="" coords="111,784,169,809"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a2c86499a1a629649dade2bdcc66ed37d" title=" FUNCTION ta0(betr,nrc) Transit time factor t(k) (single cell) " alt="" coords="344,351,384,376"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a3e03f14db5f37db7b7845722b6d06339" title=" FUNCTION fone(Z) Electromagnetic field at the longitudinal point (z,0) The field harmonics are store..." alt="" coords="340,252,387,277"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#aea47739b06e0631dc7387a8c79795861" title=" FUNCTION fcav(xc,nrc) electromagnetic field at the position xc " alt="" coords="442,252,488,277"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#ab9a49ac071ca24412efffa1f48824cbd" title=" FUNCTION sb0(BETR,nrc) Transit time factor s(k) (single cell) " alt="" coords="342,400,385,425"/>
+<area shape="rect" id="node9" href="$dynac_8_f.html#a04be1f67aa572b7c0644382c292537ae" title=" SUBROUTINE zrotap(zrot) BEAM ROTATION the transverse coordinates X and Y may be rotated through an a..." alt="" coords="222,532,281,557"/>
+<area shape="rect" id="node11" href="$dynac_8_f.html#a12e97796bd17bd51652ea192faf78a0b" title=" SUBROUTINE ext2(IDCH) Looks for average extensions squared and return them in array exten Used in th..." alt="" coords="228,581,275,607"/>
+<area shape="rect" id="node15" href="$dynac_8_f.html#a826652baf8a67c1e9fba6012c7630e2a" title=" FUNCTION ta1(betr,nrc) Transit time factor dT(k)/dk (single cell) " alt="" coords="344,449,384,475"/>
+<area shape="rect" id="node17" href="$dynac_8_f.html#a5222c55d62d4ad71addf3418c5834313" title=" FUNCTION ta2(betr,nrc) Transit time factor d2T(k)/dk2 (single cell) " alt="" coords="344,5,384,31"/>
+<area shape="rect" id="node19" href="$dynac_8_f.html#ae3ed4315eb2e622d2938d308c327279c" title=" FUNCTION ta3(betr,nrc) Transit time factor d3T(k)/dk3 (single cell) " alt="" coords="344,55,384,80"/>
+<area shape="rect" id="node21" href="$dynac_8_f.html#adbdfed0a3e36151bd52aa019d194afea" title=" FUNCTION ta4(betr,nrc) Transit time factor d4T(k)/dk4 (single cell) " alt="" coords="344,104,384,129"/>
+<area shape="rect" id="node23" href="$dynac_8_f.html#ab7e0720f3df91f79644627e4819d5427" title=" FUNCTION sb1(BETR,nrc) Transit time factor dS(k)/dk (single cell) " alt="" coords="342,499,385,524"/>
+<area shape="rect" id="node25" href="$dynac_8_f.html#a6d7c6c0f7bda49155649d345c3385ddd" title=" FUNCTION sb2(BETR,nrc) Transit time factor d2S(k)/dk2 (single cell) " alt="" coords="342,153,385,179"/>
+<area shape="rect" id="node27" href="$dynac_8_f.html#aec77e58c0d787703a60ab38cedbeaa32" title=" FUNCTION sb3(BETR,nrc) Transit time factor d3S(k)/dk3 (single cell) " alt="" coords="342,203,385,228"/>
+<area shape="rect" id="node29" href="$dynac_8_f.html#a32117aba7675e1238dd3e8b5ac34dd9f" title=" FUNCTION sb4(BETR,nrc) Transit time factor d4S(k)/dk5 (single cell) " alt="" coords="342,301,385,327"/>
+<area shape="rect" id="node34" href="$dynac_8_f.html#a1da2b899ff818dd5daa6bb2e26590184" title=" SUBROUTINE randali RANDOM ALIGNMENT errors : HORIZONTAL PLANE : XL(cm) XLP(mrad) VERTICAL PLANE : YL..." alt="" coords="221,1477,282,1503"/>
+<area shape="rect" id="node35" href="$dynac_8_f.html#aba32088fdb5d7c96ba52006dcb76e0c6" title=" SUBROUTINE xtypl1(GAMI,SAPHI,QSC,DCG) called by ETGAP and RESTAY INTEGRALS E(z)*(BG)**&#45;3 z**n n=0..." alt="" coords="223,883,279,908"/>
+<area shape="rect" id="node36" href="$dynac_8_f.html#a550c68defefb003c53cbdc181e9ee4fc" title=" SUBROUTINE xtypl2(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP integrals of the second derivative ..." alt="" coords="223,932,279,957"/>
+<area shape="rect" id="node37" href="$dynac_8_f.html#add7512de530d3443cfe5bc48a14ae645" title=" SUBROUTINE xtyplp1(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP Integrals of functions HA0(Z) and ..." alt="" coords="220,981,283,1007"/>
+<area shape="rect" id="node38" href="$dynac_8_f.html#a930e90b4876f1b37239b0cc8f1101d0b" title=" SUBROUTINE xtylpk(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP INTEGRALS of HA0(Z) and HB0(Z) INTE..." alt="" coords="224,1031,279,1056"/>
+<area shape="rect" id="node39" href="$dynac_8_f.html#adbe659c436db7a2a91bcc2cb4bd39696" title=" SUBROUTINE xtypj(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP INTEGRALS of g(G)*Ez(**2) *z**n n=0..." alt="" coords="227,1080,276,1105"/>
+<area shape="rect" id="node40" href="$dynac_8_f.html#adb8b4d669a09990d209f44631c75c060" title=" SUBROUTINE xtypm(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP INTEGRALS of g(G)*z**n with n=0..." alt="" coords="223,1129,280,1155"/>
+<area shape="rect" id="node41" href="$dynac_8_f.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title=" SUBROUTINE boucle(ipas,gamref,saphi,dcum,delphr) RESTAY or ETGAP ==&gt; GAP ==&gt; BOUCLE compute the dyna..." alt="" coords="221,1179,282,1204"/>
+<area shape="rect" id="node42" href="$dynac_8_f.html#adc2a33834571d2d40904ea3c80d72fe2" title=" SUBROUTINE kick 2015 now obsolete (?) see subroutine aliner " alt="" coords="333,1303,394,1328"/>
+<area shape="rect" id="node43" href="$dynac_8_f.html#aec87e116a701268596ced96cdc49af21" title=" SUBROUTINE hersc(ini) space charge method: HERSC " alt="" coords="224,1379,278,1404"/>
+<area shape="rect" id="node44" href="$dynac_8_f.html#ae6958b340447550eb288c054184d7bb3" title=" SUBROUTINE schermi SCHERM space charge method See NIM A 309(1996) 21&#45;40 " alt="" coords="217,1228,285,1253"/>
+<area shape="rect" id="node45" href="$dynac_8_f.html#ab7191e3ea20adf49b80195f518f4fa88" title=" SUBROUTINE scheff1(idum) SCHEFF space charge method remark: In this version int is a dummy parameter..." alt="" coords="219,1428,283,1453"/>
+<area shape="rect" id="node46" href="$dynac_8_f.html#ae12a68eac4ae98e58873f722d569b8d2" title=" SUBROUTINE reject(ilost,PRTLAB) reject particles outside window set by REJECT card ifw = 0 ===&gt; wdis..." alt="" coords="224,1277,278,1303"/>
+<area shape="rect" id="node48" href="$dynac_8_f.html#af32bc74393be6ab332bfe5dcbc6e8715" title=" SUBROUTINE chasel analysis of emittance by elimination of remote particles in the z&#45;direction ..." alt="" coords="221,735,281,760"/>
+<area shape="rect" id="node49" href="$dynac_8_f.html#adcc921f0ce0e879232c064004365ff9d" title=" SUBROUTINE chasex analysis of emittance by elimination of remote particles in the x&#45;direction ..." alt="" coords="220,784,283,809"/>
+<area shape="rect" id="node50" href="$dynac_8_f.html#a20153f9a1e928872e3a59ec6b1fdec4b" title=" SUBROUTINE chasey analysis of emittance by elimination of remote particles in the y&#45;direction ..." alt="" coords="220,833,283,859"/>
 </map>

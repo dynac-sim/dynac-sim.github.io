@@ -1,7 +1,6 @@
 <map id="denpd" name="denpd">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#ad72d7599feca4fa9633a5e247838650f" title="denpd" alt="" coords="112,29,170,55"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a17dd23f4856f6fb0e01cbfba0798ef90" title="densx" alt="" coords="218,5,275,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a3c4e07103ecba42f9b3d88e0a4a1ced5" title="densy" alt="" coords="218,55,275,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a8d6c53eb042ef9f9ba5727c567f7045d" title="densz" alt="" coords="218,104,275,129"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="herm" alt="" coords="323,55,375,80"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#ac34a82ddfcd6a8820f26defe291e8260" title=" FUNCTION densx(M,X,IRECA) Specific function called by SCHERM Calculate the distribution :(n(x)+n(y)+..." alt="" coords="112,5,169,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#aa89fc69208103a5dfdec1c6fca69987c" title=" FUNCTION densy(M,Y,IRECA) Specific function called by SCHERM Calculate the distribution :(n(x)+n(y)+..." alt="" coords="112,55,169,80"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#ab04093542b2f568d8d9f5741ef983b42" title=" FUNCTION densz(M,Z,IRECA) called by SCHERM Look for the distribution in z position ..." alt="" coords="112,104,169,129"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a4441b98c7ab6d70535c637b60e9cc00c" title=" FUNCTION herm(M,X) Hermite polynomials " alt="" coords="217,55,268,80"/>
 </map>

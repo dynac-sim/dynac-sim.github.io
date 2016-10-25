@@ -1,0 +1,8 @@
+<map id="densy" name="densy">
+<area shape="rect" id="node2" href="$dynac_8_f.html#a5cbed737069cd73c7aad89cc5f2d14d1" title=" FUNCTION denpd(XYZ,NMAXY,NMAZ) Specific function called by SCHERM Represents the distribution:(n(x)+..." alt="" coords="110,5,169,31"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#aec64d905a5a0ef3ec8dcda0d95f006ab" title=" FUNCTION denrs(XYZ) Specific function called by SCHERM Calculate the distribution :(n(x)+n(y)+n(z))/..." alt="" coords="112,55,167,80"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a7d33c71d29be09b6b4ee86cb50145fe4" title=" FUNCTION scgy(XI,XF) Specific function called by SCHERM Calculate the c.o.g in the y&#45;direction for t..." alt="" coords="115,104,164,129"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#ab14458510abd367bc69427564cb0c6af" title=" FUNCTION corxy(XI,XF,KAP,IK,XYRMS) Specific function called by SCHERM Calculate the Hermite coeffici..." alt="" coords="113,153,166,179"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#a5bbada9c76d850f8f2bddb0c85a0b45f" title=" FUNCTION varxy(XI,XF,IK) Specific function called by SCHERM Calculate the Hermite coefficients for t..." alt="" coords="113,203,166,228"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#ad892b69d29ce15051b0bb1242b48a344" title=" FUNCTION copdr(XI,XF,KAP) Specific function called by SCHERM Calculate the Hermite coefficients for ..." alt="" coords="217,55,271,80"/>
+</map>

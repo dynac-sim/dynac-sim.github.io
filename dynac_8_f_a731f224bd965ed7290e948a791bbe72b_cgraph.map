@@ -1,4 +1,3 @@
 <map id="sgppp" name="sgppp">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a731f224bd965ed7290e948a791bbe72b" title="sgppp" alt="" coords="111,5,169,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a5a19cd9bdbff766b696cea2b505e1243" title="fpar" alt="" coords="217,31,261,56"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a5a19cd9bdbff766b696cea2b505e1243" title=" FUNCTION fpar(i,j) Factorial function called by HERSC " alt="" coords="111,5,155,31"/>
 </map>

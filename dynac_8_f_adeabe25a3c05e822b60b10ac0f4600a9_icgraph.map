@@ -1,0 +1,22 @@
+<map id="cobeam" name="cobeam">
+<area shape="rect" id="node2" href="$dynac_8_f.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title=" SUBROUTINE sextu(imk2,arg,xlsex,rg) magnetic sextupole Space charge at the middle of the lens ..." alt="" coords="249,5,302,31"/>
+<area shape="rect" id="node12" href="$dynac_8_f.html#a4bebd1a9e4da83d8451b51142c55a51d" title=" SUBROUTINE qalva(bquad,xlqua,rg) QUADRUPOLE space charge computations at the middle of the lens BQUA..." alt="" coords="249,56,302,81"/>
+<area shape="rect" id="node13" href="$dynac_8_f.html#a9d9f4ec48922e34909dc9becb429b96c" title=" SUBROUTINE qasex(iksq,args,argq,xlqua,rg) quadrupole associated sextupole field space charge computa..." alt="" coords="247,107,304,132"/>
+<area shape="rect" id="node14" href="$dynac_8_f.html#a7329bc4eb621534e32e08f46887d50cd" title=" SUBROUTINE fldsol(dbs,step) solenoidal field " alt="" coords="132,156,184,181"/>
+<area shape="rect" id="node16" href="$dynac_8_f.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title=" SUBROUTINE solnoid(imks,arg,xlsol) SOLENOID (fringe&#45;fields are included in the transport matrix) spa..." alt="" coords="244,205,308,231"/>
+<area shape="rect" id="node17" href="$dynac_8_f.html#a07e9d54c1ec138291b7227967a66fdf1" title=" SUBROUTINE solquad(iksq,args,argq,xlsol,rg) SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD space ch..." alt="" coords="242,255,310,280"/>
+<area shape="rect" id="node18" href="$dynac_8_f.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title=" SUBROUTINE qelec(volt,xlqua,rs) electrostatic quadrupole space charge computation at the middle of t..." alt="" coords="131,308,185,333"/>
+<area shape="rect" id="node19" href="$dynac_8_f.html#af85cd57d0e9cbb1752f342e7855c097e" title=" SUBROUTINE qfk (ityqu,arg,xlqua,rs) electrostatic or magnetic quadrupole based on the strength K2 sp..." alt="" coords="138,357,178,383"/>
+<area shape="rect" id="node20" href="$dynac_8_f.html#ae178356a852e0594744305e2c0bcb045" title=" SUBROUTINE aimalv (ANGL,RMO,BAIM,XN,XB,EK1,EK2,PENT1,RAB1, SK1,SK2,PENT2,RAB2) FIRST AND SECOND orde..." alt="" coords="128,407,188,432"/>
+<area shape="rect" id="node21" href="$dynac_8_f.html#aca60ec3a547a015a94a435acd66ae23f" title=" SUBROUTINE e_deflec characteristics of the deflector (central trajectory) input parameters nsector: ..." alt="" coords="122,456,194,481"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a50f4bf9b30e7988963f5e1b55fb62120" title=" PROGRAM DYNAC THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY " alt="" coords="358,231,415,256"/>
+<area shape="rect" id="node4" href="$dyndat_8f.html#a0ee9394ced9d09c60061c10258fb91a8" title="dyndat" alt="" coords="464,57,525,83"/>
+<area shape="rect" id="node5" href="$dyndat_8f.html#ac46ae085248753c09b8a2728f0beed08" title="wfile1" alt="" coords="467,107,522,132"/>
+<area shape="rect" id="node6" href="$dyndat_8f.html#a6163fb6deea7fa2b3f439d90ce8a0cb9" title="wfile2" alt="" coords="467,156,522,181"/>
+<area shape="rect" id="node7" href="$dyndat_8f.html#a48d701fc8b45d0b59789173b57a79c06" title="wfile3" alt="" coords="467,205,522,231"/>
+<area shape="rect" id="node8" href="$dyndat_8f.html#a34159f4d74567e5f8d5a348d07fd6cce" title="wfile10" alt="" coords="463,255,526,280"/>
+<area shape="rect" id="node9" href="$dyndat_8f.html#a63975dcacb6f9a0c7a4b381e58ec4dfc" title="wfile11" alt="" coords="463,304,525,329"/>
+<area shape="rect" id="node10" href="$dyndat_8f.html#a6cdd1811295a69779d7a3fa8f21acf82" title="wfile21" alt="" coords="463,353,526,379"/>
+<area shape="rect" id="node11" href="$dyndat_8f.html#ab92f66e9a66b206aabb942867e633071" title="wfile20" alt="" coords="463,403,526,428"/>
+<area shape="rect" id="node15" href="$dynac_8_f.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title=" SUBROUTINE solfield(bcret,intgr) Solenoid with an arbitrary magnetic field " alt="" coords="244,156,307,181"/>
+</map>

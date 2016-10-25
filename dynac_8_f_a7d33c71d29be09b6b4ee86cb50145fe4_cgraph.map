@@ -1,5 +1,4 @@
 <map id="scgy" name="scgy">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a3c4e07103ecba42f9b3d88e0a4a1ced5" title="densy" alt="" coords="199,5,256,31"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a74aae2a1ab737f4e91a3bba5cf2ffce0" title="scgy" alt="" coords="102,31,151,56"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="herm" alt="" coords="304,5,355,31"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#aa89fc69208103a5dfdec1c6fca69987c" title=" FUNCTION densy(M,Y,IRECA) Specific function called by SCHERM Calculate the distribution :(n(x)+n(y)+..." alt="" coords="102,5,159,31"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a4441b98c7ab6d70535c637b60e9cc00c" title=" FUNCTION herm(M,X) Hermite polynomials " alt="" coords="207,5,259,31"/>
 </map>

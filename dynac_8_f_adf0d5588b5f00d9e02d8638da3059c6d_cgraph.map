@@ -1,4 +1,3 @@
 <map id="tppp" name="tppp">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#adf0d5588b5f00d9e02d8638da3059c6d" title="tppp" alt="" coords="101,5,148,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a5a19cd9bdbff766b696cea2b505e1243" title="fpar" alt="" coords="196,31,240,56"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a5a19cd9bdbff766b696cea2b505e1243" title=" FUNCTION fpar(i,j) Factorial function called by HERSC " alt="" coords="101,5,145,31"/>
 </map>

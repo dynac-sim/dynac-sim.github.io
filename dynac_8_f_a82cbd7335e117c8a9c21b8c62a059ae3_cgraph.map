@@ -1,9 +1,8 @@
 <map id="eppi" name="eppi">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a82cbd7335e117c8a9c21b8c62a059ae3" title="eppi" alt="" coords="100,129,146,155"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#ac32e94b9938354c8d1deb8ad8e33d070" title="tppi" alt="" coords="200,5,242,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a2f5dec92a899320951ceea36fd2679f1" title="sppi" alt="" coords="198,55,244,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a182d519385135b8f915f203b206173d3" title="sgppi" alt="" coords="194,104,248,129"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#a32c55cbc55e945b881ec6cbbb2da249b" title="uppi" alt="" coords="198,167,244,192"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a58f9dca74cb815e1106809d432849800" title="vppi" alt="" coords="198,216,244,241"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a5a19cd9bdbff766b696cea2b505e1243" title="fpar" alt="" coords="296,55,340,80"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#ac32e94b9938354c8d1deb8ad8e33d070" title=" FUNCTION tppi(it1,it2,it3) part of W**(2t3,2t2,2t1+1) in table 61&#45;a with T(2t3,2t2,2t1+1,j1) in table 41 " alt="" coords="105,5,148,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a2f5dec92a899320951ceea36fd2679f1" title=" FUNCTION sppi(it1,it2,it3) part of W**(2t3,2t2,2t1+1) in table 61&#45;a with S(2t3,2t2,2t1+1,j1) given in table 70&#45;a " alt="" coords="104,55,149,80"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a182d519385135b8f915f203b206173d3" title=" FUNCTION sgppi(it1,it2,it3) FUNCTION sigma(2t3,2t2,2t1+1) in table 14 is in E(2t3,2t2,2t1+1) in table 77&#45;a&#45;2 " alt="" coords="100,104,153,129"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#a32c55cbc55e945b881ec6cbbb2da249b" title=" FUNCTION uppi(it1,it2,it3) the integral U(2t3,2t2,2t1+1,thet) in table 75 the summation with cos(the..." alt="" coords="103,153,150,179"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#a58f9dca74cb815e1106809d432849800" title=" FUNCTION vppi(k) the integral V(2t3,2t2,2t1+1,k,thet) table 76 sum wih cos(thet)**2*t1,cos(thet)**(2*t2+1) (table 77&#45;a&#45;2) " alt="" coords="104,203,149,228"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a5a19cd9bdbff766b696cea2b505e1243" title=" FUNCTION fpar(i,j) Factorial function called by HERSC " alt="" coords="201,55,245,80"/>
 </map>

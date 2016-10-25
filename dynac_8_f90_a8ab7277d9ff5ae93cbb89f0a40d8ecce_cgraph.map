@@ -1,7 +1,0 @@
-<map id="fieldcav" name="fieldcav">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a9e7061dec3592eb8148f616ab88cabf8" title="deriv2" alt="" coords="120,5,178,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a3e7182348e61e755c8df62fab5850dbf" title="spline" alt="" coords="226,56,282,81"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a3cd89b728c90abecf4a8dffaccc5e8ca" title="celint" alt="" coords="122,107,175,132"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#ab939a892089f5d5f8a34deb621341085" title="xi1" alt="" coords="234,105,273,131"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a3d1749f35d2f78a9070ca20f0ba03781" title="xi2" alt="" coords="234,155,273,180"/>
-</map>

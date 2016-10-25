@@ -1,6 +1,0 @@
-<map id="tdens" name="tdens">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a0a5d672a0a0783ef9bc4f947e07c3ca2" title="Specific function called by SCHERM. " alt="" coords="107,55,160,80"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a9e7061dec3592eb8148f616ab88cabf8" title="second derivative of spline functions at position (x,y) " alt="" coords="208,5,266,31"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a839bc42f63afeac6f6f7af59987991e7" title="Specific Hermite polynomials called by the function DRXYZ. " alt="" coords="214,55,261,80"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="Hermite polynomials. " alt="" coords="314,80,366,105"/>
-</map>

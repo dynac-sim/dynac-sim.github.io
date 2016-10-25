@@ -1,6 +1,0 @@
-<map id="tiltbm_bis" name="tiltbm_bis">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="Calculate the c.o.g. of the bunch. " alt="" coords="236,5,279,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="EXT2 looks for average extensions squared and returns them in array. " alt="" coords="234,104,281,129"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="131,55,180,80"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="BEAM ROTATION. " alt="" coords="228,55,287,80"/>
-</map>

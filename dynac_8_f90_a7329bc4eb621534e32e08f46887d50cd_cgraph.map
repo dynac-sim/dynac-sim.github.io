@@ -1,8 +1,0 @@
-<map id="fldsol" name="fldsol">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a316de98d896ad9f6d11240c49155d919" title="clear" alt="" coords="115,5,165,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#ab2de2aa9a4be19f698d20ca9ff0c1b5e" title="elsol" alt="" coords="116,55,165,80"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#adeabe25a3c05e822b60b10ac0f4600a9" title="cobeam" alt="" coords="106,104,175,129"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="cogetc" alt="" coords="223,156,283,181"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject" alt="" coords="113,205,167,231"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="223,205,283,231"/>
-</map>

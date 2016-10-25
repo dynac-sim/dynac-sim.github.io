@@ -1,9 +1,8 @@
 <map id="eppp" name="eppp">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#ac5758176b02562f5ea3fa8abaca39616" title="eppp" alt="" coords="104,129,155,155"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#adf0d5588b5f00d9e02d8638da3059c6d" title="tppp" alt="" coords="209,5,256,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a4ee8bd891d5d3bcd608d880fcafbfc9b" title="sppp" alt="" coords="207,55,257,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a731f224bd965ed7290e948a791bbe72b" title="sgppp" alt="" coords="203,104,261,129"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#ab1e978896a1c8e10f9652208d76356d1" title="uppp" alt="" coords="207,167,258,192"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#ae3efa86ebab5d1390c870d4adcd0268a" title="vppp" alt="" coords="207,216,257,241"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a5a19cd9bdbff766b696cea2b505e1243" title="fpar" alt="" coords="309,55,353,80"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#adf0d5588b5f00d9e02d8638da3059c6d" title=" FUNCTION tppp(it1,it2,it3) part of W**(2t3,2t2,2t1) in table 61&#45;a with T(2t3,2t2,2t1,j1) in table 41 " alt="" coords="110,5,157,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a4ee8bd891d5d3bcd608d880fcafbfc9b" title=" FUNCTION sppp(it1,it2,it3) part of W**(2t3,2t2,2t1) in table 61&#45;a with S(2t3,2t2,2t1,j1) given in table 70&#45;a " alt="" coords="108,55,158,80"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a731f224bd965ed7290e948a791bbe72b" title=" FUNCTION sgppp(it1,it2,it3) FUNCTION sigma(2t3,2t2,2t1) in table 14 in E(2t3,2t2,2t1) in table 77&#45;a&#45;1 " alt="" coords="104,104,162,129"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#ab1e978896a1c8e10f9652208d76356d1" title=" FUNCTION uppp(it1,it2,it3) the integral U(2t3,2t2,2t1,thet) is given in table 75 the summation with ..." alt="" coords="108,153,159,179"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#ae3efa86ebab5d1390c870d4adcd0268a" title=" FUNCTION vppp(k) the integral V(2t3,2t2,2t1,k,thet) table 76 sum with cos(thet)**2*t1,cos(thet)**2*t2 (see table 77&#45;a&#45;1) " alt="" coords="108,203,158,228"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a5a19cd9bdbff766b696cea2b505e1243" title=" FUNCTION fpar(i,j) Factorial function called by HERSC " alt="" coords="210,55,254,80"/>
 </map>

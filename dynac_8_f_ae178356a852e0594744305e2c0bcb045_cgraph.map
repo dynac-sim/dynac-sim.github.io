@@ -1,51 +1,51 @@
 <map id="aimalv" name="aimalv">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="gap" alt="" coords="241,401,284,427"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a1da2b899ff818dd5daa6bb2e26590184" title="randali" alt="" coords="354,53,416,79"/>
-<area shape="rect" id="node12" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="cogetc" alt="" coords="478,203,538,228"/>
-<area shape="rect" id="node27" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject" alt="" coords="358,204,412,229"/>
-<area shape="rect" id="node28" href="$dynac_8_f90.html#a316de98d896ad9f6d11240c49155d919" title="clear" alt="" coords="123,503,173,528"/>
-<area shape="rect" id="node29" href="$dynac_8_f90.html#ae44a67553f5f36cabe469d5d3dca3c9a" title="pofar1" alt="" coords="118,351,178,376"/>
-<area shape="rect" id="node32" href="$dynac_8_f90.html#a63a47a809d32c131e3e4989f144c4e6c" title="matrix" alt="" coords="119,552,177,577"/>
-<area shape="rect" id="node33" href="$dynac_8_f90.html#adeabe25a3c05e822b60b10ac0f4600a9" title="cobeam" alt="" coords="114,601,182,627"/>
-<area shape="rect" id="node34" href="$dynac_8_f90.html#a34607f60b708bf3d53afc4a3a9a506c1" title="benmag" alt="" coords="113,651,183,676"/>
-<area shape="rect" id="node35" href="$dynac_8_f90.html#ac401f34a1b954f2007c58f4882146ff6" title="syrout" alt="" coords="119,700,177,725"/>
-<area shape="rect" id="node36" href="$dynac_8_f90.html#a43b8da949c2772759f9823b3483da176" title="pofar2" alt="" coords="118,301,178,327"/>
-<area shape="rect" id="node37" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="cesp" alt="" coords="238,651,287,676"/>
-<area shape="rect" id="node40" href="$dynac_8_f90.html#a1b5e23b46ff6ae1606dafb1c2317206b" title="syref" alt="" coords="123,749,173,775"/>
-<area shape="rect" id="node41" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="123,799,173,824"/>
-<area shape="rect" id="node45" href="$dynac_8_f90.html#a98e89ebbb4cd47169457fbb20a58d648" title="disp" alt="" coords="125,897,171,923"/>
-<area shape="rect" id="node46" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="emiprt" alt="" coords="119,848,177,873"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a1857031432bd0b0751cf5897a727920e" title="xtypl1" alt="" coords="357,253,413,279"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a8dcb4490fb5f9f0f8545f3467962e878" title="xtypl2" alt="" coords="357,303,413,328"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="xtyplp1" alt="" coords="353,352,417,377"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="xtylpk" alt="" coords="357,401,413,427"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="xtypj" alt="" coords="361,451,409,476"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="xtypm" alt="" coords="357,500,414,525"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title="boucle" alt="" coords="355,103,415,128"/>
-<area shape="rect" id="node16" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="478,551,538,576"/>
-<area shape="rect" id="node17" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="hersc" alt="" coords="358,700,412,725"/>
-<area shape="rect" id="node24" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="schermi" alt="" coords="351,601,419,627"/>
-<area shape="rect" id="node26" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="scheff1" alt="" coords="353,651,417,676"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aebf08050538b4980e7eac37dd5dcb5d6" title="rlux" alt="" coords="487,5,529,31"/>
-<area shape="rect" id="node13" href="$dynac_8_f90.html#a31347c4f8066813a1b810042e430a2f7" title="gamci" alt="" coords="480,104,536,129"/>
-<area shape="rect" id="node14" href="$dynac_8_f90.html#ab939a892089f5d5f8a34deb621341085" title="xi1" alt="" coords="489,153,527,179"/>
-<area shape="rect" id="node15" href="$dynac_8_f90.html#a3d1749f35d2f78a9070ca20f0ba03781" title="xi2" alt="" coords="489,55,527,80"/>
-<area shape="rect" id="node18" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="gausse" alt="" coords="476,896,540,921"/>
-<area shape="rect" id="node19" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="table" alt="" coords="483,649,533,675"/>
-<area shape="rect" id="node20" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="bhdist" alt="" coords="480,699,536,724"/>
-<area shape="rect" id="node21" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="trms" alt="" coords="484,748,532,773"/>
-<area shape="rect" id="node22" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="uvrms" alt="" coords="479,797,537,823"/>
-<area shape="rect" id="node23" href="$dynac_8_f90.html#a51708efae990172b910867a0e56de5b2" title="fielde" alt="" coords="481,847,535,872"/>
-<area shape="rect" id="node25" href="$dynac_8_f90.html#a007e94c954d9fa422a19d4214e0c1ec3" title="pintim" alt="" coords="480,600,536,625"/>
-<area shape="rect" id="node30" href="$dynac_8_f90.html#a4a9f53f8ec8e13f5df14e76a09b48b61" title="sb2" alt="" coords="241,301,284,327"/>
-<area shape="rect" id="node31" href="$dynac_8_f90.html#ad8dca9bd91268ec157ae63b02a3a0919" title="sb3" alt="" coords="241,351,284,376"/>
-<area shape="rect" id="node38" href="$dynac_8_f90.html#a1dd0ff75953fbf3e966d2588a9b212fa" title="b_sep" alt="" coords="356,749,414,775"/>
-<area shape="rect" id="node39" href="$dynac_8_f90.html#a183d62ff3c710fd9f129760e127f6ff1" title="scheff_sep" alt="" coords="342,799,428,824"/>
-<area shape="rect" id="node42" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="zrotap" alt="" coords="233,700,292,725"/>
-<area shape="rect" id="node43" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="cdg" alt="" coords="241,799,284,824"/>
-<area shape="rect" id="node44" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="ext2" alt="" coords="239,749,286,775"/>
-<area shape="rect" id="node47" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="ext2d" alt="" coords="236,947,289,972"/>
-<area shape="rect" id="node48" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="chasel" alt="" coords="233,996,292,1021"/>
-<area shape="rect" id="node49" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="chasex" alt="" coords="231,848,294,873"/>
-<area shape="rect" id="node50" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="chasey" alt="" coords="231,897,294,923"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a4a57fc6b7daec85b4f190af5840380e9" title=" SUBROUTINE gap(GAMREF,SAPHI,GAMS,DELPHR) ETGAP or RESTAY ==&gt; GAP dynamics in the accelerating elemen..." alt="" coords="241,401,284,427"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a1da2b899ff818dd5daa6bb2e26590184" title=" SUBROUTINE randali RANDOM ALIGNMENT errors : HORIZONTAL PLANE : XL(cm) XLP(mrad) VERTICAL PLANE : YL..." alt="" coords="354,53,416,79"/>
+<area shape="rect" id="node12" href="$dynac_8_f.html#af4b0da4c6bc00761d0db2dd21e512dcc" title=" SUBROUTINE cogetc COG of TOF with respect to the various charge states " alt="" coords="478,203,538,228"/>
+<area shape="rect" id="node27" href="$dynac_8_f.html#ae12a68eac4ae98e58873f722d569b8d2" title=" SUBROUTINE reject(ilost,PRTLAB) reject particles outside window set by REJECT card ifw = 0 ===&gt; wdis..." alt="" coords="358,204,412,229"/>
+<area shape="rect" id="node28" href="$dynac_8_f.html#a316de98d896ad9f6d11240c49155d919" title="clear" alt="" coords="123,503,173,528"/>
+<area shape="rect" id="node29" href="$dynac_8_f.html#aacb90f1019fc61e31df3fe12ba2e1ada" title=" SUBROUTINE POFAR1(GAP) ENTRANCE OR EXIT OF THE BENDING MAGNET, MATRIX R AND T ARE IN (M..." alt="" coords="118,351,178,376"/>
+<area shape="rect" id="node32" href="$dynac_8_f.html#a63a47a809d32c131e3e4989f144c4e6c" title=" SUBROUTINE matrix print first and second order matrix of a lens " alt="" coords="119,552,177,577"/>
+<area shape="rect" id="node33" href="$dynac_8_f.html#adeabe25a3c05e822b60b10ac0f4600a9" title=" SUBROUTINE cobeam(ii,xl) MATRIX BASED BEAM COMPUTATION " alt="" coords="114,601,182,627"/>
+<area shape="rect" id="node34" href="$dynac_8_f.html#a34607f60b708bf3d53afc4a3a9a506c1" title=" SUBROUTINE BENMAG(sbet,fdtot) IDEAL MAGNET, MATRIX R AND T ARE IN (M,RD) **** WARNING : IN THIS ROUT..." alt="" coords="113,651,183,676"/>
+<area shape="rect" id="node35" href="$dynac_8_f.html#ac401f34a1b954f2007c58f4882146ff6" title=" SUBROUTINE syrout(ii) SYNCHROTRON RADIATION EXCITATION FOR PARTICLE ii The method is described in &#39;s..." alt="" coords="119,700,177,725"/>
+<area shape="rect" id="node36" href="$dynac_8_f.html#afc72649c51123a85b1bf1e155c8d2349" title=" SUBROUTINE POFAR2(GAP) FIRST AND SECOND order MATRIX R AND T SAVE H, GAP AND RABT BEFORE CONVERSION ..." alt="" coords="118,301,178,327"/>
+<area shape="rect" id="node37" href="$dynac_8_f.html#a277be55d7493c5e416c4305460bc2812" title=" SUBROUTINE cesp(xlqua) select the space charge method (optical lenses) " alt="" coords="238,651,287,676"/>
+<area shape="rect" id="node40" href="$dynac_8_f.html#a1b5e23b46ff6ae1606dafb1c2317206b" title=" SUBROUTINE syref SYNCHROTRON RADIATION EXCITATION FROM PARTICLE REFERENCE The method is described in..." alt="" coords="123,749,173,775"/>
+<area shape="rect" id="node41" href="$dynac_8_f.html#a881e0a9ceaa69799a037634203635eec" title=" SUBROUTINE stapl(zpos) the statistics in EXT2 " alt="" coords="123,799,173,824"/>
+<area shape="rect" id="node45" href="$dynac_8_f.html#a98e89ebbb4cd47169457fbb20a58d648" title=" SUBROUTINE disp Compute the dispersion dE/E with respect to the center of gravity of the bunch ..." alt="" coords="125,897,171,923"/>
+<area shape="rect" id="node46" href="$dynac_8_f.html#a0f4034a8c7f1c7194932203a6172be8a" title=" SUBROUTINE emiprt(L) following EMIT or EMITL card, store data in arrays to be printed by subroutine ..." alt="" coords="119,848,177,873"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#aba32088fdb5d7c96ba52006dcb76e0c6" title=" SUBROUTINE xtypl1(GAMI,SAPHI,QSC,DCG) called by ETGAP and RESTAY INTEGRALS E(z)*(BG)**&#45;3 z**n n=0..." alt="" coords="357,253,413,279"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#a550c68defefb003c53cbdc181e9ee4fc" title=" SUBROUTINE xtypl2(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP integrals of the second derivative ..." alt="" coords="357,303,413,328"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#add7512de530d3443cfe5bc48a14ae645" title=" SUBROUTINE xtyplp1(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP Integrals of functions HA0(Z) and ..." alt="" coords="353,352,417,377"/>
+<area shape="rect" id="node8" href="$dynac_8_f.html#a930e90b4876f1b37239b0cc8f1101d0b" title=" SUBROUTINE xtylpk(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP INTEGRALS of HA0(Z) and HB0(Z) INTE..." alt="" coords="357,401,413,427"/>
+<area shape="rect" id="node9" href="$dynac_8_f.html#adbe659c436db7a2a91bcc2cb4bd39696" title=" SUBROUTINE xtypj(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP INTEGRALS of g(G)*Ez(**2) *z**n n=0..." alt="" coords="361,451,409,476"/>
+<area shape="rect" id="node10" href="$dynac_8_f.html#adb8b4d669a09990d209f44631c75c060" title=" SUBROUTINE xtypm(GAMI,SAPHI,QSC,DCG) called by RESTAY and ETGAP INTEGRALS of g(G)*z**n with n=0..." alt="" coords="357,500,414,525"/>
+<area shape="rect" id="node11" href="$dynac_8_f.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title=" SUBROUTINE boucle(ipas,gamref,saphi,dcum,delphr) RESTAY or ETGAP ==&gt; GAP ==&gt; BOUCLE compute the dyna..." alt="" coords="355,103,415,128"/>
+<area shape="rect" id="node16" href="$dynac_8_f.html#adc2a33834571d2d40904ea3c80d72fe2" title=" SUBROUTINE kick 2015 now obsolete (?) see subroutine aliner " alt="" coords="478,551,538,576"/>
+<area shape="rect" id="node17" href="$dynac_8_f.html#aec87e116a701268596ced96cdc49af21" title=" SUBROUTINE hersc(ini) space charge method: HERSC " alt="" coords="358,700,412,725"/>
+<area shape="rect" id="node24" href="$dynac_8_f.html#ae6958b340447550eb288c054184d7bb3" title=" SUBROUTINE schermi SCHERM space charge method See NIM A 309(1996) 21&#45;40 " alt="" coords="351,601,419,627"/>
+<area shape="rect" id="node26" href="$dynac_8_f.html#ab7191e3ea20adf49b80195f518f4fa88" title=" SUBROUTINE scheff1(idum) SCHEFF space charge method remark: In this version int is a dummy parameter..." alt="" coords="353,651,417,676"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a05df62e2b118ff06afd9414edf22d997" title=" SUBROUTINE rlux(RVEC,LENV) ranlux.f Rev 1.2 1997/09/22 13:45:47 mclareni Correct error in initializi..." alt="" coords="487,5,529,31"/>
+<area shape="rect" id="node13" href="$dynac_8_f.html#a29f7bc96382993d34676172895caf20a" title=" FUNCTION gamci(PHI,PCRESI,GAMI,IST,QSC) called by RESTAY and ETGAP CURRENT GAMMA VALUE (the POSITION..." alt="" coords="480,104,536,129"/>
+<area shape="rect" id="node14" href="$dynac_8_f.html#ab939a892089f5d5f8a34deb621341085" title=" FUNCTION xi1(phi0,t0,t5) energy gain over the step " alt="" coords="489,153,527,179"/>
+<area shape="rect" id="node15" href="$dynac_8_f.html#a3d1749f35d2f78a9070ca20f0ba03781" title=" FUNCTION xi2(phi0,t0) coupling terms in R and R&#39; (energy gain) " alt="" coords="489,55,527,80"/>
+<area shape="rect" id="node18" href="$dynac_8_f.html#a7386644f1574bd4ba019cc2eab9ac103" title=" SUBROUTINE gausse called by HERSC GAUSS method " alt="" coords="476,896,540,921"/>
+<area shape="rect" id="node19" href="$dynac_8_f.html#a22275f8a6b248b5d634a3ed2873ad597" title=" SUBROUTINE table(lbmax,mbmax,nbmax) called by HERSC arrays of variables independent of the coordinat..." alt="" coords="483,649,533,675"/>
+<area shape="rect" id="node20" href="$dynac_8_f.html#afbda7483923e3c63dd74e318cfa7f8ba" title=" SUBROUTINE bhdist called by HERSC computes: the coefficients A(l,m,n) the rms sizes in x..." alt="" coords="480,699,536,724"/>
+<area shape="rect" id="node21" href="$dynac_8_f.html#ac5a1961a4571e9d062d040be46ac3172" title=" SUBROUTINE trms(isucc) called by HERSC storage of the variables depending only of the rms sizes lmax..." alt="" coords="484,748,532,773"/>
+<area shape="rect" id="node22" href="$dynac_8_f.html#a463c77e57caf807854c687ec09eac623" title=" SUBROUTINE uvrms called by HERSC storage of the variables depending only of the coordinate s3 ..." alt="" coords="479,797,537,823"/>
+<area shape="rect" id="node23" href="$dynac_8_f.html#a51708efae990172b910867a0e56de5b2" title=" SUBROUTINE fielde(lc,mc,nc,isucc) beam self&#45;fields computation called by HERSC look for the parity o..." alt="" coords="481,847,535,872"/>
+<area shape="rect" id="node25" href="$dynac_8_f.html#a007e94c954d9fa422a19d4214e0c1ec3" title=" SUBROUTINE pintim Shifts particle coordinates to a single point in time. Uses a linear shift Divide ..." alt="" coords="480,600,536,625"/>
+<area shape="rect" id="node30" href="$dynac_8_f.html#a6d7c6c0f7bda49155649d345c3385ddd" title=" FUNCTION sb2(BETR,nrc) Transit time factor d2S(k)/dk2 (single cell) " alt="" coords="241,301,284,327"/>
+<area shape="rect" id="node31" href="$dynac_8_f.html#aec77e58c0d787703a60ab38cedbeaa32" title=" FUNCTION sb3(BETR,nrc) Transit time factor d3S(k)/dk3 (single cell) " alt="" coords="241,351,284,376"/>
+<area shape="rect" id="node38" href="$dynac_8_f.html#a1dd0ff75953fbf3e966d2588a9b212fa" title=" SUBROUTINE b_sep(isepa) check if the bunches in the beam are separated or not " alt="" coords="356,749,414,775"/>
+<area shape="rect" id="node39" href="$dynac_8_f.html#a183d62ff3c710fd9f129760e127f6ff1" title=" SUBROUTINE scheff_sep SCHEFF_sep special space charge method This version of SCHEFF, starting from the Swenson version, has modifications made to include corrections for relativistic beams. The dynamics have been modified to transform to the beam rest frame, calculate the space&#45;charge kicks in this frame, and then transform back to the lab frame. input data sce(1)=beam current in ma. sce(2)=radial extension in rms multiples sce(3)=longitudinal extension in rms multiples sce(4)=no. of radial mesh intervals (le 20) sce(5)=no. of longitudinal mesh intervals (le 40) sce(6)=no. of adjacent bunches, applicable for buncher studies and should be 0 for linac dynamics sce(7)=distance between adjacent beam pulses in cm (transport studies); input zero to get (beta*lambda) default sce(8)=deactived sce(9)=option to integrate space charge forces over box if.eq.0. no integration see sub gaus for further explanation. sce(10) =1 : call in quads,solenoids,accelarating elements sce(10) =2 : call in drifts,accelarating elements sce(10) =3 : call at both standard SCHEFF parameters (see sub schfdyn and user guide) sce(2)=4 sce(3)=4 sce(4)=20 sce(5)=40 sce(6)=0 sce(7)=0 sce(9)=0 " alt="" coords="342,799,428,824"/>
+<area shape="rect" id="node42" href="$dynac_8_f.html#a04be1f67aa572b7c0644382c292537ae" title=" SUBROUTINE zrotap(zrot) BEAM ROTATION the transverse coordinates X and Y may be rotated through an a..." alt="" coords="233,700,292,725"/>
+<area shape="rect" id="node43" href="$dynac_8_f.html#a97d1105ec78bcc1f743322ee7a680aa6" title=" SUBROUTINE cdg(IDCH) Calculate the c.o.g. of the bunch IDCH EQ 1: WITH CHASE IDCH NE 1: OTHERWISE co..." alt="" coords="241,799,284,824"/>
+<area shape="rect" id="node44" href="$dynac_8_f.html#a12e97796bd17bd51652ea192faf78a0b" title=" SUBROUTINE ext2(IDCH) Looks for average extensions squared and return them in array exten Used in th..." alt="" coords="239,749,286,775"/>
+<area shape="rect" id="node47" href="$dynac_8_f.html#ab2a96d6fb0da33dd74f8950ab39e85e9" title=" SUBROUTINE ext2d(IDCH) Look for average extensions squared and return them in array exten Used in th..." alt="" coords="236,947,289,972"/>
+<area shape="rect" id="node48" href="$dynac_8_f.html#af32bc74393be6ab332bfe5dcbc6e8715" title=" SUBROUTINE chasel analysis of emittance by elimination of remote particles in the z&#45;direction ..." alt="" coords="233,996,292,1021"/>
+<area shape="rect" id="node49" href="$dynac_8_f.html#adcc921f0ce0e879232c064004365ff9d" title=" SUBROUTINE chasex analysis of emittance by elimination of remote particles in the x&#45;direction ..." alt="" coords="231,848,294,873"/>
+<area shape="rect" id="node50" href="$dynac_8_f.html#a20153f9a1e928872e3a59ec6b1fdec4b" title=" SUBROUTINE chasey analysis of emittance by elimination of remote particles in the y&#45;direction ..." alt="" coords="231,897,294,923"/>
 </map>

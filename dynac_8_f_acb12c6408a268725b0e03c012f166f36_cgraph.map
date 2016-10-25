@@ -1,6 +1,5 @@
 <map id="tta0" name="tta0">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#acb12c6408a268725b0e03c012f166f36" title="tta0" alt="" coords="97,29,140,55"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a2c86499a1a629649dade2bdcc66ed37d" title="ta0" alt="" coords="192,5,232,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a0e9715b7ab9f5a1411a4a14a35feba8d" title="fone" alt="" coords="188,55,236,80"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aea47739b06e0631dc7387a8c79795861" title="fcav" alt="" coords="284,5,330,31"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a2c86499a1a629649dade2bdcc66ed37d" title=" FUNCTION ta0(betr,nrc) Transit time factor t(k) (single cell) " alt="" coords="101,5,140,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a3e03f14db5f37db7b7845722b6d06339" title=" FUNCTION fone(Z) Electromagnetic field at the longitudinal point (z,0) The field harmonics are store..." alt="" coords="97,55,144,80"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#aea47739b06e0631dc7387a8c79795861" title=" FUNCTION fcav(xc,nrc) electromagnetic field at the position xc " alt="" coords="192,5,238,31"/>
 </map>

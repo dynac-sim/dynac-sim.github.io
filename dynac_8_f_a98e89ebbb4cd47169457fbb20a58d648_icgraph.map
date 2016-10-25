@@ -1,0 +1,29 @@
+<map id="disp" name="disp">
+<area shape="rect" id="node2" href="$dynac_8_f.html#a4bebd1a9e4da83d8451b51142c55a51d" title=" SUBROUTINE qalva(bquad,xlqua,rg) QUADRUPOLE space charge computations at the middle of the lens BQUA..." alt="" coords="230,5,283,31"/>
+<area shape="rect" id="node12" href="$dynac_8_f.html#a9d9f4ec48922e34909dc9becb429b96c" title=" SUBROUTINE qasex(iksq,args,argq,xlqua,rg) quadrupole associated sextupole field space charge computa..." alt="" coords="228,55,285,80"/>
+<area shape="rect" id="node13" href="$dynac_8_f.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title=" SUBROUTINE solfield(bcret,intgr) Solenoid with an arbitrary magnetic field " alt="" coords="225,104,288,129"/>
+<area shape="rect" id="node14" href="$dynac_8_f.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title=" SUBROUTINE solnoid(imks,arg,xlsol) SOLENOID (fringe&#45;fields are included in the transport matrix) spa..." alt="" coords="224,153,288,179"/>
+<area shape="rect" id="node15" href="$dynac_8_f.html#a07e9d54c1ec138291b7227967a66fdf1" title=" SUBROUTINE solquad(iksq,args,argq,xlsol,rg) SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD space ch..." alt="" coords="222,203,290,228"/>
+<area shape="rect" id="node16" href="$dynac_8_f.html#addb2ec0bcf630af70f6b1f5725711e29" title=" SUBROUTINE drift(dl) DRIFT LENGHT space charge computation at the middle of the drift ..." alt="" coords="115,303,158,328"/>
+<area shape="rect" id="node18" href="$dynac_8_f.html#af97eaafe8944d301105cb8007175c419" title=" SUBROUTINE egun(fmult,indp) method:Bode&#39;s rule read the axial field of the DC gun field from disk z ..." alt="" coords="231,353,282,379"/>
+<area shape="rect" id="node19" href="$dynac_8_f.html#ac821ef6194c6456ba3b53b5607498c7d" title=" SUBROUTINE rfq_parm NOTE: The reference particle and particles may evolve separately or may be conne..." alt="" coords="99,404,174,429"/>
+<area shape="rect" id="node21" href="$dynac_8_f.html#a6968ad62b648dc1c4f6381c4134ed473" title=" SUBROUTINE stripp solid stripper foils for low velocity hadron particles " alt="" coords="110,453,163,479"/>
+<area shape="rect" id="node22" href="$dynac_8_f.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title=" SUBROUTINE qelec(volt,xlqua,rs) electrostatic quadrupole space charge computation at the middle of t..." alt="" coords="110,504,163,529"/>
+<area shape="rect" id="node23" href="$dynac_8_f.html#af85cd57d0e9cbb1752f342e7855c097e" title=" SUBROUTINE qfk (ityqu,arg,xlqua,rs) electrostatic or magnetic quadrupole based on the strength K2 sp..." alt="" coords="117,553,156,579"/>
+<area shape="rect" id="node24" href="$dynac_8_f.html#ae357d70d27aeaf4bcb83fcf431017dbb" title=" SUBROUTINE bcnum(phref,ylg,ncell) dynamics of the bunch " alt="" coords="106,603,167,628"/>
+<area shape="rect" id="node26" href="$dynac_8_f.html#ae178356a852e0594744305e2c0bcb045" title=" SUBROUTINE aimalv (ANGL,RMO,BAIM,XN,XB,EK1,EK2,PENT1,RAB1, SK1,SK2,PENT2,RAB2) FIRST AND SECOND orde..." alt="" coords="107,653,166,679"/>
+<area shape="rect" id="node27" href="$dynac_8_f.html#aca60ec3a547a015a94a435acd66ae23f" title=" SUBROUTINE e_deflec characteristics of the deflector (central trajectory) input parameters nsector: ..." alt="" coords="101,704,172,729"/>
+<area shape="rect" id="node28" href="$dynac_8_f.html#a5a965b6f9532b45faa0d00cfcfaa6f6f" title=" SUBROUTINE rfkick(v,dp,harm,nvf) RFKICK (NO SPACE CHARGE EFFECT) " alt="" coords="110,756,163,781"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a50f4bf9b30e7988963f5e1b55fb62120" title=" PROGRAM DYNAC THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY " alt="" coords="339,379,395,404"/>
+<area shape="rect" id="node4" href="$dyndat_8f.html#a0ee9394ced9d09c60061c10258fb91a8" title="dyndat" alt="" coords="444,205,506,231"/>
+<area shape="rect" id="node5" href="$dyndat_8f.html#ac46ae085248753c09b8a2728f0beed08" title="wfile1" alt="" coords="447,255,503,280"/>
+<area shape="rect" id="node6" href="$dyndat_8f.html#a6163fb6deea7fa2b3f439d90ce8a0cb9" title="wfile2" alt="" coords="447,304,503,329"/>
+<area shape="rect" id="node7" href="$dyndat_8f.html#a48d701fc8b45d0b59789173b57a79c06" title="wfile3" alt="" coords="447,353,503,379"/>
+<area shape="rect" id="node8" href="$dyndat_8f.html#a34159f4d74567e5f8d5a348d07fd6cce" title="wfile10" alt="" coords="443,403,506,428"/>
+<area shape="rect" id="node9" href="$dyndat_8f.html#a63975dcacb6f9a0c7a4b381e58ec4dfc" title="wfile11" alt="" coords="444,452,506,477"/>
+<area shape="rect" id="node10" href="$dyndat_8f.html#a6cdd1811295a69779d7a3fa8f21acf82" title="wfile21" alt="" coords="443,501,506,527"/>
+<area shape="rect" id="node11" href="$dyndat_8f.html#ab92f66e9a66b206aabb942867e633071" title="wfile20" alt="" coords="443,551,506,576"/>
+<area shape="rect" id="node17" href="$dynac_8_f.html#ac30f0b8284e8e81a0879c40951623588" title=" SUBROUTINE fdrift(xl,npart,imit) DIVIDE A DRIFT LENGHT OF :XL CM IN :NPART PARTIAL DRIFTS This will ..." alt="" coords="233,304,280,329"/>
+<area shape="rect" id="node20" href="$dynac_8_f.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title=" SUBROUTINE cpardyn(pib) — make up a list of cell by cell RFQ data based on a file generated by the ..." alt="" coords="222,403,291,428"/>
+<area shape="rect" id="node25" href="$dynac_8_f.html#a882ad36e718ea53afe6fec1edadbdd6b" title=" SUBROUTINE cavnum numerical computations of the dynamic in cavities or gap the field can be read fro..." alt="" coords="222,605,290,631"/>
+</map>

@@ -1,9 +1,8 @@
 <map id="eipi" name="eipi">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#ac0e53ccf3417a16dc9445cdc2c9ca498" title="eipi" alt="" coords="95,129,138,155"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#ae945507865a5084706971ce4fb60eb9c" title="tipi" alt="" coords="191,5,229,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a44e297595e680690008b41c87e4af9ea" title="sipi" alt="" coords="189,55,231,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a759cce8bf518164985864d65cbc287f3" title="sgipi" alt="" coords="186,104,234,129"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#a7c22e70e5cf74b9287cf5b792f0a9ddd" title="uipi" alt="" coords="189,167,231,192"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#aac843fb30d5a2eaf2d31f3c6b24bad5b" title="vipi" alt="" coords="189,216,231,241"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a5a19cd9bdbff766b696cea2b505e1243" title="fpar" alt="" coords="282,55,327,80"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#ae945507865a5084706971ce4fb60eb9c" title=" FUNCTION tipi(it1,it2,it3) part of W**(2t3+1,2t2,2t1+1) in table 61&#45;b with T(2t3+1,2t2,2t1+1,j1) in table 41 " alt="" coords="100,5,139,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a44e297595e680690008b41c87e4af9ea" title=" FUNCTION sipi(it1,it2,it3) part of W**(2t3+1,2t2,2t1+1) in table 61&#45;b with S(2t3+1,2t2,2t1+1,j1) given in table 70&#45;b " alt="" coords="99,55,140,80"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#a759cce8bf518164985864d65cbc287f3" title=" FUNCTION sgipi(it1,it2,it3) FUNCTION sigma(2t3+1,2t2,2t1+1) in table 14 in E(2t3+1,2t2,2t1+1) in table 77&#45;b&#45;1 " alt="" coords="95,104,144,129"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#a7c22e70e5cf74b9287cf5b792f0a9ddd" title=" FUNCTION uipi(it1,it2,it3) the integral U(2t3+1,2t2,2t1+1,thet) table 75 summation over cos(thet)**(..." alt="" coords="99,153,141,179"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#aac843fb30d5a2eaf2d31f3c6b24bad5b" title=" FUNCTION vipi(k) the integral V(2*t3+1,2*t2,2*t1+1,k,thet) table 76 sum with cos(thet)**(2*t1+1),cos(thet)**2*t2 (table 77&#45;b&#45;1) " alt="" coords="99,203,140,228"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a5a19cd9bdbff766b696cea2b505e1243" title=" FUNCTION fpar(i,j) Factorial function called by HERSC " alt="" coords="192,55,236,80"/>
 </map>

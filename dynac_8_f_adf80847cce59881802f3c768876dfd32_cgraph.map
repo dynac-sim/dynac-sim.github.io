@@ -1,5 +1,5 @@
 <map id="ytzp" name="ytzp">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a6bf5566d09dbfe3010100db259908f50" title="area" alt="" coords="99,5,147,31"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="cdg" alt="" coords="102,55,145,80"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="ext2" alt="" coords="100,104,146,129"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a6bf5566d09dbfe3010100db259908f50" title=" SUBROUTINE area(init) selection of the regions in the space x/a, y/b and z/c. The values a..." alt="" coords="99,5,147,31"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a97d1105ec78bcc1f743322ee7a680aa6" title=" SUBROUTINE cdg(IDCH) Calculate the c.o.g. of the bunch IDCH EQ 1: WITH CHASE IDCH NE 1: OTHERWISE co..." alt="" coords="102,55,145,80"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a12e97796bd17bd51652ea192faf78a0b" title=" SUBROUTINE ext2(IDCH) Looks for average extensions squared and return them in array exten Used in th..." alt="" coords="100,104,146,129"/>
 </map>

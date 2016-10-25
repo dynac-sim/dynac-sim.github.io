@@ -1,9 +1,9 @@
 <map id="etac" name="etac">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#aebf08050538b4980e7eac37dd5dcb5d6" title="rlux" alt="" coords="108,55,150,80"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="emiprt" alt="" coords="100,104,158,129"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="cdg" alt="" coords="217,5,259,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="ext2d" alt="" coords="211,55,265,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="chasel" alt="" coords="208,104,268,129"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="chasex" alt="" coords="206,153,270,179"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="chasey" alt="" coords="206,203,270,228"/>
+<area shape="rect" id="node2" href="$dynac_8_f.html#a05df62e2b118ff06afd9414edf22d997" title=" SUBROUTINE rlux(RVEC,LENV) ranlux.f Rev 1.2 1997/09/22 13:45:47 mclareni Correct error in initializi..." alt="" coords="108,55,150,80"/>
+<area shape="rect" id="node3" href="$dynac_8_f.html#a0f4034a8c7f1c7194932203a6172be8a" title=" SUBROUTINE emiprt(L) following EMIT or EMITL card, store data in arrays to be printed by subroutine ..." alt="" coords="100,104,158,129"/>
+<area shape="rect" id="node4" href="$dynac_8_f.html#a97d1105ec78bcc1f743322ee7a680aa6" title=" SUBROUTINE cdg(IDCH) Calculate the c.o.g. of the bunch IDCH EQ 1: WITH CHASE IDCH NE 1: OTHERWISE co..." alt="" coords="217,5,259,31"/>
+<area shape="rect" id="node5" href="$dynac_8_f.html#ab2a96d6fb0da33dd74f8950ab39e85e9" title=" SUBROUTINE ext2d(IDCH) Look for average extensions squared and return them in array exten Used in th..." alt="" coords="211,55,265,80"/>
+<area shape="rect" id="node6" href="$dynac_8_f.html#af32bc74393be6ab332bfe5dcbc6e8715" title=" SUBROUTINE chasel analysis of emittance by elimination of remote particles in the z&#45;direction ..." alt="" coords="208,104,268,129"/>
+<area shape="rect" id="node7" href="$dynac_8_f.html#adcc921f0ce0e879232c064004365ff9d" title=" SUBROUTINE chasex analysis of emittance by elimination of remote particles in the x&#45;direction ..." alt="" coords="206,153,270,179"/>
+<area shape="rect" id="node8" href="$dynac_8_f.html#a20153f9a1e928872e3a59ec6b1fdec4b" title=" SUBROUTINE chasey analysis of emittance by elimination of remote particles in the y&#45;direction ..." alt="" coords="206,203,270,228"/>
 </map>

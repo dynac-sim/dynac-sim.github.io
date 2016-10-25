@@ -1,5 +1,5 @@
 <map id="tsb2" name="tsb2">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a4a9f53f8ec8e13f5df14e76a09b48b61" title="Transit time factor d2S(k)/dk2 (single cell) " alt="" coords="102,5,145,31"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#a0e9715b7ab9f5a1411a4a14a35feba8d" title="Electromagnetic field at the longitudinal point (z,0) " alt="" coords="100,55,147,80"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#aea47739b06e0631dc7387a8c79795861" title="electromagnetic field at the position xc " alt="" coords="195,5,241,31"/>
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a4a9f53f8ec8e13f5df14e76a09b48b61" title="sb2" alt="" coords="102,5,145,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a0e9715b7ab9f5a1411a4a14a35feba8d" title="fone" alt="" coords="100,55,147,80"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#aea47739b06e0631dc7387a8c79795861" title="fcav" alt="" coords="195,5,241,31"/>
 </map>

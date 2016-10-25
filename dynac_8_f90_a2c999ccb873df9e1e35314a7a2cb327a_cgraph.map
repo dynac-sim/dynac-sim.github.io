@@ -1,51 +1,51 @@
 <map id="xtyplp1" name="xtyplp1">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="ETGAP or RESTAY ==&gt; GAP. " alt="" coords="117,252,160,277"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a1da2b899ff818dd5daa6bb2e26590184" title="randali" alt="" coords="212,5,273,31"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a1857031432bd0b0751cf5897a727920e" title="called by ETGAP and RESTAY " alt="" coords="214,55,271,80"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a8dcb4490fb5f9f0f8545f3467962e878" title="called by RESTAY and ETGAP " alt="" coords="214,104,271,129"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="called by RESTAY and ETGAP " alt="" coords="215,153,270,179"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="called by RESTAY and ETGAP " alt="" coords="218,203,267,228"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="called by RESTAY and ETGAP " alt="" coords="214,252,271,277"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title="RESTAY or ETGAP ==&gt; GAP ==&gt; BOUCLE. " alt="" coords="212,301,273,327"/>
-<area shape="rect" id="node15" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="350,375,411,400"/>
-<area shape="rect" id="node16" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="space charge method: HERSC " alt="" coords="216,499,269,524"/>
-<area shape="rect" id="node28" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="SCHERM space charge method. " alt="" coords="208,1097,276,1123"/>
-<area shape="rect" id="node47" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="SCHEFF space charge method. " alt="" coords="210,1621,275,1647"/>
-<area shape="rect" id="node50" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject particles outside window set by REJECT card " alt="" coords="216,351,269,376"/>
-<area shape="rect" id="node4" href="$namespacerandlux.html#a3fb24ea3d02ef2815637035617c7a464" title="randlux::rlux" alt="" coords="639,176,733,201"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="COG of TOF with regard the various charge states. " alt="" coords="350,325,411,351"/>
-<area shape="rect" id="node12" href="$dynac_8_f90.html#a31347c4f8066813a1b810042e430a2f7" title="called by RESTAY and ETGAP " alt="" coords="352,125,409,151"/>
-<area shape="rect" id="node13" href="$dynac_8_f90.html#ab939a892089f5d5f8a34deb621341085" title=" " alt="" coords="361,227,400,252"/>
-<area shape="rect" id="node14" href="$dynac_8_f90.html#a3d1749f35d2f78a9070ca20f0ba03781" title=" " alt="" coords="361,276,400,301"/>
-<area shape="rect" id="node17" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="GAUSS method. " alt="" coords="349,572,413,597"/>
-<area shape="rect" id="node18" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="called by HERSC " alt="" coords="356,621,406,647"/>
-<area shape="rect" id="node20" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="called by HERSC " alt="" coords="352,671,409,696"/>
-<area shape="rect" id="node23" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="called by HERSC " alt="" coords="357,424,404,449"/>
-<area shape="rect" id="node24" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="called by HERSC " alt="" coords="352,523,410,548"/>
-<area shape="rect" id="node25" href="$namespaceselffields.html#a056d2a4d6963bdacb95e6b5d2f99f07f" title="beam self&#45;fields computation called by HERSC look for the parity of the currents lc,mc and nc compute the corresponding field components " alt="" coords="324,473,437,499"/>
-<area shape="rect" id="node19" href="$dynac_8_f90.html#a18ccc9584f69b33056308ab40b17ea28" title="called by HERSC " alt="" coords="516,572,560,597"/>
-<area shape="rect" id="node21" href="$dynac_8_f90.html#ae8ed0a9389a704fdecf8f7d8505a2077" title="pintfast" alt="" coords="506,621,570,647"/>
-<area shape="rect" id="node22" href="$dynac_8_f90.html#a49416869726cfc4145f04a9d974dd0cf" title="the significant Hermite coefficients (called by HERSC) " alt="" coords="511,671,565,696"/>
-<area shape="rect" id="node26" href="$namespaceselffields.html#a92a4a2d17022caa98a34b4900f72a6ac" title="selffields::eipp" alt="" coords="485,448,591,473"/>
-<area shape="rect" id="node27" href="$namespaceselffields.html#af20378f984d1d9dac400381ef2f7d6bc" title="selffields::epip" alt="" coords="485,497,591,523"/>
-<area shape="rect" id="node29" href="$dynac_8_f90.html#a007e94c954d9fa422a19d4214e0c1ec3" title="Shifts particle coordinates to a single point in time. Uses. " alt="" coords="352,1571,409,1596"/>
-<area shape="rect" id="node30" href="$dynac_8_f90.html#a4e8520f6f7dc4f9cce4530ef067d7165" title="partial R.M.S. (called by SCHERM) " alt="" coords="508,1123,568,1148"/>
-<area shape="rect" id="node31" href="$dynac_8_f90.html#a8957d1df4b8f9bfe42a4bc8506252606" title="Computes the R.M.S. of the bunch at positions of space charge. " alt="" coords="510,721,566,747"/>
-<area shape="rect" id="node32" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="Hermite polynomials. " alt="" coords="512,1420,564,1445"/>
-<area shape="rect" id="node33" href="$dynac_8_f90.html#a841422ad15ec488dbf50b084353c034f" title="FACTORIAL of M. " alt="" coords="516,848,559,873"/>
-<area shape="rect" id="node34" href="$dynac_8_f90.html#a494c294f7ba11ebf6894531af4196060" title="specific function called by SCHERM " alt="" coords="358,823,404,848"/>
-<area shape="rect" id="node35" href="$dynac_8_f90.html#ae0a8495cd680854cc866ba6722247bcb" title="specific function called by SCHERM " alt="" coords="348,872,413,897"/>
-<area shape="rect" id="node36" href="$dynac_8_f90.html#a45630a7b878fd332d0d5eb873f2047b7" title="schermi1" alt="" coords="343,973,418,999"/>
-<area shape="rect" id="node37" href="$dynac_8_f90.html#a6d8259aa867a6719ffe574bc103f618e" title="Calculate the bean self fields acting on each particle (called by. " alt="" coords="513,948,563,973"/>
-<area shape="rect" id="node38" href="$dynac_8_f90.html#aeabf3b375afebf3c76cf92bf88753dfa" title="specific function called by SCHERM " alt="" coords="354,1023,408,1048"/>
-<area shape="rect" id="node39" href="$dynac_8_f90.html#aba411def6530892558c27b24458051da" title="specific function called by SCHERM " alt="" coords="356,1072,405,1097"/>
-<area shape="rect" id="node40" href="$dynac_8_f90.html#a42fc82e2ac8e809f27537f26607d2510" title="specific function called by SCHERM " alt="" coords="356,1420,406,1445"/>
-<area shape="rect" id="node41" href="$dynac_8_f90.html#af29265745ebbd2bcc7d476311bead151" title="specific function called by SCHERM " alt="" coords="352,1173,410,1199"/>
-<area shape="rect" id="node42" href="$dynac_8_f90.html#a86ed88460c39f8957a931b2543149989" title="specific function called by SCHERM " alt="" coords="356,1223,406,1248"/>
-<area shape="rect" id="node43" href="$dynac_8_f90.html#afccdce0c58edfcace00f1c330f84cb30" title="specific function called by SCHERM " alt="" coords="353,1521,409,1547"/>
-<area shape="rect" id="node44" href="$dynac_8_f90.html#ae5b685dc12fb7deb747ca26fe6f0e82b" title="specific function called by SCHERM " alt="" coords="361,1272,401,1297"/>
-<area shape="rect" id="node45" href="$dynac_8_f90.html#a40b4c20c82064d7c7ba151f68ed22485" title="specific function called by SCHERM " alt="" coords="356,1321,405,1347"/>
-<area shape="rect" id="node46" href="$dynac_8_f90.html#a66e0af4abd306b8a78a38cf885fd9c25" title="specific function called by SCHERM " alt="" coords="356,1371,405,1396"/>
-<area shape="rect" id="node48" href="$dynac_8_f90.html#a2a030cd6b6c1b09fbaa871cfcd59be97" title="called by SCHEFF " alt="" coords="517,1697,559,1723"/>
-<area shape="rect" id="node49" href="$dynac_8_f90.html#aa582fe59d81832591f5cc1a8041f2575" title="called by SCHEFF " alt="" coords="356,1723,406,1748"/>
+<area shape="rect" id="node2" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="gap" alt="" coords="117,237,160,262"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a1da2b899ff818dd5daa6bb2e26590184" title="randali" alt="" coords="453,86,514,112"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a1857031432bd0b0751cf5897a727920e" title="xtypl1" alt="" coords="214,40,271,65"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#a8dcb4490fb5f9f0f8545f3467962e878" title="xtypl2" alt="" coords="214,89,271,114"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="xtylpk" alt="" coords="215,138,270,164"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="xtypj" alt="" coords="218,188,267,213"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="xtypm" alt="" coords="214,237,271,262"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title="boucle" alt="" coords="212,286,273,312"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="334,360,394,385"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="hersc" alt="" coords="216,484,269,509"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="schermi" alt="" coords="208,1080,276,1105"/>
+<area shape="rect" id="node46" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="scheff1" alt="" coords="210,1629,275,1654"/>
+<area shape="rect" id="node50" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject" alt="" coords="216,336,269,361"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#aebf08050538b4980e7eac37dd5dcb5d6" title="rlux" alt="" coords="564,210,607,236"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="cogetc" alt="" coords="334,310,394,336"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#a31347c4f8066813a1b810042e430a2f7" title="gamci" alt="" coords="336,261,393,286"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#ab939a892089f5d5f8a34deb621341085" title="xi1" alt="" coords="345,110,383,136"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#a3d1749f35d2f78a9070ca20f0ba03781" title="xi2" alt="" coords="345,160,383,185"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="gausse" alt="" coords="332,409,396,434"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="table" alt="" coords="339,458,389,484"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="bhdist" alt="" coords="336,508,393,533"/>
+<area shape="rect" id="node23" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="trms" alt="" coords="340,557,388,582"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="uvrms" alt="" coords="335,606,393,632"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#a51708efae990172b910867a0e56de5b2" title="fielde" alt="" coords="337,656,391,681"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#a18ccc9584f69b33056308ab40b17ea28" title="fper" alt="" coords="462,433,506,458"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#ae8ed0a9389a704fdecf8f7d8505a2077" title="pintfast" alt="" coords="452,482,516,508"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#a49416869726cfc4145f04a9d974dd0cf" title="hcoef" alt="" coords="457,532,511,557"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#a0ba9a73fe97f232e5118680c52d5af83" title="eipp" alt="" coords="461,656,507,681"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#a007e94c954d9fa422a19d4214e0c1ec3" title="pintim" alt="" coords="336,1553,393,1578"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#a4e8520f6f7dc4f9cce4530ef067d7165" title="sizrms" alt="" coords="454,1502,514,1528"/>
+<area shape="rect" id="node30" href="$dynac_8_f90.html#a8957d1df4b8f9bfe42a4bc8506252606" title="sizcor" alt="" coords="456,782,512,808"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="herm" alt="" coords="458,957,510,982"/>
+<area shape="rect" id="node32" href="$dynac_8_f90.html#a841422ad15ec488dbf50b084353c034f" title="fact" alt="" coords="462,845,505,870"/>
+<area shape="rect" id="node33" href="$dynac_8_f90.html#a494c294f7ba11ebf6894531af4196060" title="snzt" alt="" coords="341,1006,387,1032"/>
+<area shape="rect" id="node34" href="$dynac_8_f90.html#ae0a8495cd680854cc866ba6722247bcb" title="rchsom" alt="" coords="332,1056,397,1081"/>
+<area shape="rect" id="node35" href="$dynac_8_f90.html#a45630a7b878fd332d0d5eb873f2047b7" title="schermi1" alt="" coords="326,858,402,884"/>
+<area shape="rect" id="node36" href="$dynac_8_f90.html#a6d8259aa867a6719ffe574bc103f618e" title="intga" alt="" coords="459,720,509,745"/>
+<area shape="rect" id="node37" href="$dynac_8_f90.html#aeabf3b375afebf3c76cf92bf88753dfa" title="vaprz" alt="" coords="337,1105,391,1130"/>
+<area shape="rect" id="node38" href="$dynac_8_f90.html#aba411def6530892558c27b24458051da" title="snzd" alt="" coords="339,1154,389,1180"/>
+<area shape="rect" id="node39" href="$dynac_8_f90.html#a42fc82e2ac8e809f27537f26607d2510" title="prinz" alt="" coords="339,908,389,933"/>
+<area shape="rect" id="node40" href="$dynac_8_f90.html#af29265745ebbd2bcc7d476311bead151" title="rchsor" alt="" coords="335,1253,393,1278"/>
+<area shape="rect" id="node41" href="$dynac_8_f90.html#a86ed88460c39f8957a931b2543149989" title="varia" alt="" coords="339,1302,389,1328"/>
+<area shape="rect" id="node42" href="$dynac_8_f90.html#afccdce0c58edfcace00f1c330f84cb30" title="codsy" alt="" coords="336,957,392,982"/>
+<area shape="rect" id="node43" href="$dynac_8_f90.html#ae5b685dc12fb7deb747ca26fe6f0e82b" title="grz" alt="" coords="344,1352,384,1377"/>
+<area shape="rect" id="node44" href="$dynac_8_f90.html#a40b4c20c82064d7c7ba151f68ed22485" title="variz" alt="" coords="339,1401,389,1426"/>
+<area shape="rect" id="node45" href="$dynac_8_f90.html#a66e0af4abd306b8a78a38cf885fd9c25" title="codif" alt="" coords="339,1204,389,1229"/>
+<area shape="rect" id="node47" href="$dynac_8_f90.html#a98defa81cb4b91bb711bd48502cd6431" title="compress" alt="" coords="324,1704,404,1729"/>
+<area shape="rect" id="node48" href="$dynac_8_f90.html#a2a030cd6b6c1b09fbaa871cfcd59be97" title="flds" alt="" coords="463,1705,505,1730"/>
+<area shape="rect" id="node49" href="$dynac_8_f90.html#aa582fe59d81832591f5cc1a8041f2575" title="gaus" alt="" coords="339,1654,389,1680"/>
 </map>

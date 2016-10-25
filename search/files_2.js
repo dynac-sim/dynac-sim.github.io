@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['randlux_2ef90',['randlux.F90',['../randlux_8_f90.html',1,'']]],
-  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]]
+  ['license_2emd',['LICENSE.md',['../_l_i_c_e_n_s_e_8md.html',1,'']]]
 ];

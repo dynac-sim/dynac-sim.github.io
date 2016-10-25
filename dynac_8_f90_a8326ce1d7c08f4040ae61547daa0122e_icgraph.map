@@ -1,31 +1,41 @@
 <map id="ext2d" name="ext2d">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="single cell of a DTL " alt="" coords="224,56,278,81"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="following EMIT or EMITL card, store data in arrays to be printed by " alt="" coords="107,577,166,603"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="motion of particles in a cavity " alt="" coords="222,5,280,31"/>
-<area shape="rect" id="node21" href="$dynac_8_f90.html#ac821ef6194c6456ba3b53b5607498c7d" title="rfq_parm" alt="" coords="214,1211,288,1236"/>
-<area shape="rect" id="node26" href="$dynac_8_f90.html#a882ad36e718ea53afe6fec1edadbdd6b" title="numerical computations of the dynamic in cavities or gap " alt="" coords="217,105,285,131"/>
-<area shape="rect" id="node30" href="$dynac_8_f90.html#a76ca58eb457f0ec120e239833e505f5c" title="statitics of the 6&#45;d ellipsoid (for print) " alt="" coords="110,107,163,132"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY. " alt="" coords="458,609,515,635"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#aa1d3d1d136ccdb66293586d0d14015e4" title="Dynamics through a single cell of a RFQ with multipolar expansion. " alt="" coords="344,711,403,736"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#ae36f48e89571e36931a8c4420850cecd" title="******define the dynamics at input " alt="" coords="347,760,399,785"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#a690f9e7eb8cae7c576ba821f2bcb29ed" title="convert the particles in DYNAC units " alt="" coords="224,805,278,831"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#a5bb0e0fc441aaea4d3243c04d19850e0" title="BUNCHER (NO SPACE CHARGE EFFECT) " alt="" coords="336,859,410,884"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#a7a54f0abc2e7bebd4b0f9568f3c4e49c" title="computes a physical beam acceptance at the entrance of the machine " alt="" coords="343,908,404,933"/>
-<area shape="rect" id="node12" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="magnetic sextupole " alt="" coords="347,957,400,983"/>
-<area shape="rect" id="node13" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="QUADRUPOLE. " alt="" coords="347,1008,400,1033"/>
-<area shape="rect" id="node14" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="quadrupole associated sextupole field " alt="" coords="345,1059,402,1084"/>
-<area shape="rect" id="node15" href="$dynac_8_f90.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title="Solenoid with an arbitrary magnetic field. " alt="" coords="342,1108,405,1133"/>
-<area shape="rect" id="node16" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="SOLENOID (fringe&#45;fields are included in the transport matrix) " alt="" coords="342,1159,405,1184"/>
-<area shape="rect" id="node17" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD. " alt="" coords="339,155,407,180"/>
-<area shape="rect" id="node18" href="$dynac_8_f90.html#ac30f0b8284e8e81a0879c40951623588" title="DIVIDE A DRIFT LENGHT OF :XL CM IN :NPART PARTIAL DRIFTS. " alt="" coords="350,204,397,229"/>
-<area shape="rect" id="node19" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="DRIFT LENGHT. " alt="" coords="229,257,273,283"/>
-<area shape="rect" id="node20" href="$dynac_8_f90.html#af97eaafe8944d301105cb8007175c419" title=" " alt="" coords="226,307,277,332"/>
-<area shape="rect" id="node23" href="$dynac_8_f90.html#a6968ad62b648dc1c4f6381c4134ed473" title=" " alt="" coords="224,356,278,381"/>
-<area shape="rect" id="node24" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="electrostatic quadrupole " alt="" coords="224,405,278,431"/>
-<area shape="rect" id="node25" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="electrostatic or magnetic quadrupole based on the strength K2 " alt="" coords="231,455,271,480"/>
-<area shape="rect" id="node27" href="$dynac_8_f90.html#a190464ddff78a324cec6f0a3372570bb" title="aimalv" alt="" coords="221,504,281,529"/>
-<area shape="rect" id="node28" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="215,553,287,579"/>
-<area shape="rect" id="node29" href="$dynac_8_f90.html#a5a965b6f9532b45faa0d00cfcfaa6f6f" title="RFKICK (NO SPACE CHARGE EFFECT) " alt="" coords="225,603,277,628"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#a5285cc69c761c9ffb8cba18cf2aa49e0" title="read the coordinates of particles from file " alt="" coords="346,809,401,835"/>
-<area shape="rect" id="node22" href="$dynac_8_f90.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title=" " alt="" coords="339,1209,408,1235"/>
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="etgap" alt="" coords="227,5,281,31"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="emiprt" alt="" coords="109,609,167,635"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="restay" alt="" coords="225,107,283,132"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#ac821ef6194c6456ba3b53b5607498c7d" title="rfq_parm" alt="" coords="217,1264,291,1289"/>
+<area shape="rect" id="node34" href="$dynac_8_f90.html#a882ad36e718ea53afe6fec1edadbdd6b" title="cavnum" alt="" coords="220,156,288,181"/>
+<area shape="rect" id="node39" href="$dynac_8_f90.html#a2fb01ae73c28e9e79e059b3075ee9950" title="emit3d" alt="" coords="107,56,169,81"/>
+<area shape="rect" id="node40" href="$dynac_8_f90.html#a76ca58eb457f0ec120e239833e505f5c" title="statis" alt="" coords="112,157,164,183"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="dynac" alt="" coords="461,609,518,635"/>
+<area shape="rect" id="node4" href="$_programming_2dynac_2plot_2dyndat_8f.html#a0ee9394ced9d09c60061c10258fb91a8" title="dyndat" alt="" coords="567,436,628,461"/>
+<area shape="rect" id="node5" href="$_programming_2dynac_2plot_2dyndat_8f.html#ac46ae085248753c09b8a2728f0beed08" title="wfile1" alt="" coords="570,485,625,511"/>
+<area shape="rect" id="node6" href="$_programming_2dynac_2plot_2dyndat_8f.html#a6163fb6deea7fa2b3f439d90ce8a0cb9" title="wfile2" alt="" coords="570,535,625,560"/>
+<area shape="rect" id="node7" href="$_programming_2dynac_2plot_2dyndat_8f.html#a48d701fc8b45d0b59789173b57a79c06" title="wfile3" alt="" coords="570,584,625,609"/>
+<area shape="rect" id="node8" href="$_programming_2dynac_2plot_2dyndat_8f.html#a34159f4d74567e5f8d5a348d07fd6cce" title="wfile10" alt="" coords="566,633,629,659"/>
+<area shape="rect" id="node9" href="$_programming_2dynac_2plot_2dyndat_8f.html#a63975dcacb6f9a0c7a4b381e58ec4dfc" title="wfile11" alt="" coords="567,683,629,708"/>
+<area shape="rect" id="node10" href="$_programming_2dynac_2plot_2dyndat_8f.html#a6cdd1811295a69779d7a3fa8f21acf82" title="wfile21" alt="" coords="566,732,629,757"/>
+<area shape="rect" id="node11" href="$_programming_2dynac_2plot_2dyndat_8f.html#ab92f66e9a66b206aabb942867e633071" title="wfile20" alt="" coords="566,781,629,807"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#aa1d3d1d136ccdb66293586d0d14015e4" title="rfq_o3" alt="" coords="347,812,406,837"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#ae36f48e89571e36931a8c4420850cecd" title="entre" alt="" coords="350,861,402,887"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#a690f9e7eb8cae7c576ba821f2bcb29ed" title="intfac" alt="" coords="227,56,281,81"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#a5bb0e0fc441aaea4d3243c04d19850e0" title="bunparm" alt="" coords="339,964,413,989"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a7a54f0abc2e7bebd4b0f9568f3c4e49c" title="accept" alt="" coords="346,1015,407,1040"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="sextu" alt="" coords="350,1068,403,1093"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="qalva" alt="" coords="350,1124,403,1149"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="qasex" alt="" coords="348,1187,405,1212"/>
+<area shape="rect" id="node23" href="$dynac_8_f90.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title="solfield" alt="" coords="345,208,408,233"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="solnoid" alt="" coords="345,257,408,283"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="solquad" alt="" coords="342,307,410,332"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#ac30f0b8284e8e81a0879c40951623588" title="fdrift" alt="" coords="353,356,400,381"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="drift" alt="" coords="232,409,276,435"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#af97eaafe8944d301105cb8007175c419" title="egun" alt="" coords="351,457,402,483"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#a6968ad62b648dc1c4f6381c4134ed473" title="stripp" alt="" coords="227,511,281,536"/>
+<area shape="rect" id="node32" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="qelec" alt="" coords="227,560,281,585"/>
+<area shape="rect" id="node33" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="qfk" alt="" coords="234,609,274,635"/>
+<area shape="rect" id="node35" href="$dynac_8_f90.html#a97af460c4b436d053cc08ff9a7dc57f2" title="aimalv" alt="" coords="224,659,284,684"/>
+<area shape="rect" id="node36" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="218,708,290,733"/>
+<area shape="rect" id="node37" href="$dynac_8_f90.html#a5a965b6f9532b45faa0d00cfcfaa6f6f" title="rfkick" alt="" coords="228,911,280,936"/>
+<area shape="rect" id="node38" href="$dynac_8_f.html#a7564e6fce81b5b8d31d32aedbb3a0fc7" title=" SUBROUTINE etac Several charge states in the bunch, generated randomly ENTRY : N : Number of charge ..." alt="" coords="231,960,277,985"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#a5285cc69c761c9ffb8cba18cf2aa49e0" title="adjrfq" alt="" coords="349,56,404,81"/>
+<area shape="rect" id="node30" href="$dynac_8_f90.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title="cpardyn" alt="" coords="342,1263,411,1288"/>
 </map>

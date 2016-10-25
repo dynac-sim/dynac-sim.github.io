@@ -1,48 +1,51 @@
 <map id="densz" name="densz">
-<area shape="rect" id="node2" href="$dynac_8_f90.html#a494c294f7ba11ebf6894531af4196060" title="specific function called by SCHERM " alt="" coords="226,429,272,455"/>
-<area shape="rect" id="node32" href="$dynac_8_f90.html#aba411def6530892558c27b24458051da" title="specific function called by SCHERM " alt="" coords="224,480,274,505"/>
-<area shape="rect" id="node33" href="$dynac_8_f90.html#aeabf3b375afebf3c76cf92bf88753dfa" title="specific function called by SCHERM " alt="" coords="222,531,276,556"/>
-<area shape="rect" id="node34" href="$dynac_8_f90.html#a42fc82e2ac8e809f27537f26607d2510" title="specific function called by SCHERM " alt="" coords="224,580,274,605"/>
-<area shape="rect" id="node35" href="$dynac_8_f90.html#ae0a8495cd680854cc866ba6722247bcb" title="specific function called by SCHERM " alt="" coords="217,629,282,655"/>
-<area shape="rect" id="node36" href="$dynac_8_f90.html#afccdce0c58edfcace00f1c330f84cb30" title="specific function called by SCHERM " alt="" coords="221,679,277,704"/>
-<area shape="rect" id="node37" href="$dynac_8_f90.html#a66e0af4abd306b8a78a38cf885fd9c25" title="specific function called by SCHERM " alt="" coords="115,732,164,757"/>
-<area shape="rect" id="node38" href="$dynac_8_f90.html#a86ed88460c39f8957a931b2543149989" title="specific function called by SCHERM " alt="" coords="114,781,165,807"/>
-<area shape="rect" id="node39" href="$dynac_8_f90.html#a40b4c20c82064d7c7ba151f68ed22485" title="specific function called by SCHERM " alt="" coords="115,831,164,856"/>
-<area shape="rect" id="node40" href="$dynac_8_f90.html#a866449ec2154109b139957170baaf807" title="Specific function called by SCHERM. " alt="" coords="110,880,169,905"/>
-<area shape="rect" id="node42" href="$dynac_8_f90.html#af82e76d92b6908491b8eb1aa65461335" title="Specific function called by SCHERM. " alt="" coords="111,929,168,955"/>
-<area shape="rect" id="node44" href="$dynac_8_f90.html#a4ee4aa758b1e02ad33c61e70eb51da59" title="Specific function called by SCHERM. " alt="" coords="112,979,167,1004"/>
-<area shape="rect" id="node46" href="$unused_8_f90.html#ad72d7599feca4fa9633a5e247838650f" title="denpd" alt="" coords="110,1028,169,1053"/>
-<area shape="rect" id="node47" href="$unused_8_f90.html#a0056b16f87f861b2a4f2f6f8b7b24926" title="varzr" alt="" coords="114,1077,165,1103"/>
-<area shape="rect" id="node3" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="SCHERM space charge method. " alt="" coords="330,679,398,704"/>
-<area shape="rect" id="node4" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="ETGAP or RESTAY ==&gt; GAP. " alt="" coords="559,153,602,179"/>
-<area shape="rect" id="node14" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="select the space charge method (optical lenses) " alt="" coords="446,704,495,729"/>
-<area shape="rect" id="node5" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="called by RESTAY and ETGAP " alt="" coords="668,5,732,31"/>
-<area shape="rect" id="node6" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="called by RESTAY and ETGAP " alt="" coords="673,55,728,80"/>
-<area shape="rect" id="node7" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="called by RESTAY and ETGAP " alt="" coords="676,104,725,129"/>
-<area shape="rect" id="node8" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="called by RESTAY and ETGAP " alt="" coords="672,153,729,179"/>
-<area shape="rect" id="node9" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="single cell of a DTL " alt="" coords="673,203,728,228"/>
-<area shape="rect" id="node11" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="motion of particles in a cavity " alt="" coords="671,252,729,277"/>
-<area shape="rect" id="node12" href="$dynac_8_f90.html#a8c89b992a39a162c0c003caf68293374" title="FIRST AND SECOND order MATRIX R AND T. " alt="" coords="670,301,731,327"/>
-<area shape="rect" id="node13" href="$dynac_8_f90.html#a190464ddff78a324cec6f0a3372570bb" title="aimalv" alt="" coords="670,351,730,376"/>
-<area shape="rect" id="node10" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY. " alt="" coords="783,704,840,729"/>
-<area shape="rect" id="node15" href="$dynac_8_f90.html#aa1d3d1d136ccdb66293586d0d14015e4" title="Dynamics through a single cell of a RFQ with multipolar expansion. " alt="" coords="671,452,730,477"/>
-<area shape="rect" id="node16" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="magnetic sextupole " alt="" coords="674,501,727,527"/>
-<area shape="rect" id="node17" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="QUADRUPOLE. " alt="" coords="554,553,607,579"/>
-<area shape="rect" id="node18" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="quadrupole associated sextupole field " alt="" coords="552,603,609,628"/>
-<area shape="rect" id="node19" href="$dynac_8_f90.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title="Solenoid with an arbitrary magnetic field. " alt="" coords="549,653,612,679"/>
-<area shape="rect" id="node20" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="SOLENOID (fringe&#45;fields are included in the transport matrix) " alt="" coords="549,704,612,729"/>
-<area shape="rect" id="node21" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD. " alt="" coords="547,755,615,780"/>
-<area shape="rect" id="node22" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="DRIFT LENGHT. " alt="" coords="559,805,602,831"/>
-<area shape="rect" id="node24" href="$dynac_8_f90.html#af97eaafe8944d301105cb8007175c419" title=" " alt="" coords="555,856,606,881"/>
-<area shape="rect" id="node25" href="$dynac_8_f90.html#ac821ef6194c6456ba3b53b5607498c7d" title="rfq_parm" alt="" coords="543,907,618,932"/>
-<area shape="rect" id="node27" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="electrostatic quadrupole " alt="" coords="554,960,607,985"/>
-<area shape="rect" id="node28" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="electrostatic or magnetic quadrupole based on the strength K2 " alt="" coords="561,1016,600,1041"/>
-<area shape="rect" id="node29" href="$dynac_8_f90.html#ae357d70d27aeaf4bcb83fcf431017dbb" title="dynamics of the bunch " alt="" coords="550,1080,611,1105"/>
-<area shape="rect" id="node31" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="545,1159,616,1184"/>
-<area shape="rect" id="node23" href="$dynac_8_f90.html#ac30f0b8284e8e81a0879c40951623588" title="DIVIDE A DRIFT LENGHT OF :XL CM IN :NPART PARTIAL DRIFTS. " alt="" coords="677,856,724,881"/>
-<area shape="rect" id="node26" href="$dynac_8_f90.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title=" " alt="" coords="666,957,735,983"/>
-<area shape="rect" id="node30" href="$dynac_8_f90.html#a882ad36e718ea53afe6fec1edadbdd6b" title="numerical computations of the dynamic in cavities or gap " alt="" coords="666,1109,734,1135"/>
-<area shape="rect" id="node41" href="$dynac_8_f90.html#ae5b685dc12fb7deb747ca26fe6f0e82b" title="specific function called by SCHERM " alt="" coords="229,881,269,907"/>
-<area shape="rect" id="node43" href="$dynac_8_f90.html#af29265745ebbd2bcc7d476311bead151" title="specific function called by SCHERM " alt="" coords="220,931,278,956"/>
-<area shape="rect" id="node45" href="$unused_8_f90.html#aacf5759da96e422f4328a8baddf283b3" title="copdr" alt="" coords="222,980,277,1005"/>
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a494c294f7ba11ebf6894531af4196060" title="snzt" alt="" coords="120,132,166,157"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#aba411def6530892558c27b24458051da" title="snzd" alt="" coords="118,233,168,258"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#aeabf3b375afebf3c76cf92bf88753dfa" title="vaprz" alt="" coords="116,536,170,561"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#a42fc82e2ac8e809f27537f26607d2510" title="prinz" alt="" coords="118,637,168,662"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#ae0a8495cd680854cc866ba6722247bcb" title="rchsom" alt="" coords="110,862,175,888"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#afccdce0c58edfcace00f1c330f84cb30" title="codsy" alt="" coords="115,32,171,57"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#a66e0af4abd306b8a78a38cf885fd9c25" title="codif" alt="" coords="118,334,168,360"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#a86ed88460c39f8957a931b2543149989" title="varia" alt="" coords="118,436,168,461"/>
+<area shape="rect" id="node33" href="$dynac_8_f90.html#a40b4c20c82064d7c7ba151f68ed22485" title="variz" alt="" coords="118,713,168,738"/>
+<area shape="rect" id="node35" href="$dynac_8_f90.html#a866449ec2154109b139957170baaf807" title="dendir" alt="" coords="114,938,172,964"/>
+<area shape="rect" id="node39" href="$dynac_8_f90.html#af82e76d92b6908491b8eb1aa65461335" title="dendif" alt="" coords="114,788,172,813"/>
+<area shape="rect" id="node42" href="$dynac_8_f90.html#ad72d7599feca4fa9633a5e247838650f" title="denpd" alt="" coords="114,1000,172,1025"/>
+<area shape="rect" id="node44" href="$dynac_8_f90.html#a4ee4aa758b1e02ad33c61e70eb51da59" title="denrs" alt="" coords="115,1073,170,1098"/>
+<area shape="rect" id="node48" href="$dynac_8_f90.html#a0056b16f87f861b2a4f2f6f8b7b24926" title="varzr" alt="" coords="117,1122,168,1148"/>
+<area shape="rect" id="node50" href="$dynac_8_f.html#ab04093542b2f568d8d9f5741ef983b42" title=" FUNCTION densz(M,Z,IRECA) called by SCHERM Look for the distribution in z position ..." alt="" coords="114,1172,171,1197"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="schermi" alt="" coords="330,536,398,561"/>
+<area shape="rect" id="node19" href="$dynac_8_f.html#a2ea5131047fb737edeb2f7909810fc60" title=" FUNCTION snzt(CC,DD) specific function called by SCHERM " alt="" coords="230,81,275,106"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="gap" alt="" coords="446,460,489,485"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="cesp" alt="" coords="544,736,594,761"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="xtyplp1" alt="" coords="537,336,601,361"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="xtylpk" alt="" coords="541,385,597,410"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="xtypj" alt="" coords="545,434,593,460"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="xtypm" alt="" coords="541,484,598,509"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="etgap" alt="" coords="651,410,706,436"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="restay" alt="" coords="650,561,708,586"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#ae44a67553f5f36cabe469d5d3dca3c9a" title="pofar1" alt="" coords="540,585,599,610"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#a97af460c4b436d053cc08ff9a7dc57f2" title="aimalv" alt="" coords="649,612,709,637"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#a43b8da949c2772759f9823b3483da176" title="pofar2" alt="" coords="540,686,599,712"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="dynac" alt="" coords="757,661,814,686"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#aa1d3d1d136ccdb66293586d0d14015e4" title="rfq_o3" alt="" coords="649,661,708,686"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="sextu" alt="" coords="652,710,705,736"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="qalva" alt="" coords="652,760,705,785"/>
+<area shape="rect" id="node21" href="$dynac_8_f.html#aba411def6530892558c27b24458051da" title=" FUNCTION snzd(cc,dd) specific function called by SCHERM " alt="" coords="228,182,277,208"/>
+<area shape="rect" id="node23" href="$dynac_8_f.html#ad7ff7314a6348da219a29457722ad92e" title=" FUNCTION vaprz(CC,DD) specific function called by SCHERM " alt="" coords="226,485,279,510"/>
+<area shape="rect" id="node25" href="$dynac_8_f.html#a9590431dac5841fc0d047925a7f23952" title=" FUNCTION prinz(CC,DD,KAP,ZRMSS1) specific function called by SCHERM " alt="" coords="227,586,278,612"/>
+<area shape="rect" id="node28" href="$dynac_8_f.html#affc4ad6516904c370e4f2bf8e9834dd4" title=" FUNCTION codsy(BB,CC,DD,EE,KAP) specific function called by SCHERM " alt="" coords="224,32,281,57"/>
+<area shape="rect" id="node30" href="$dynac_8_f.html#acf8c25a2ddeb55a8aa6bc07d35ba9c02" title=" FUNCTION codif(BB,CC,DD,EE,EE1,KAP) specific function called by SCHERM " alt="" coords="228,334,277,360"/>
+<area shape="rect" id="node32" href="$dynac_8_f.html#a660e6ef60ddaf062087e79dce8a624dd" title=" FUNCTION varia(BB,CC,DD,EE) specific function called by SCHERM " alt="" coords="227,436,278,461"/>
+<area shape="rect" id="node34" href="$dynac_8_f.html#ad7cf002e22ba2b502dbd4bf21da67233" title=" FUNCTION variz(BB,CC,DD,EE,EE1) specific function called by SCHERM " alt="" coords="228,738,277,764"/>
+<area shape="rect" id="node36" href="$dynac_8_f90.html#ae5b685dc12fb7deb747ca26fe6f0e82b" title="grz" alt="" coords="233,988,272,1013"/>
+<area shape="rect" id="node38" href="$dynac_8_f.html#a3159f8feaa5b22045ed349f87fdaeeab" title=" FUNCTION dendir(Z,AA,BB,CC,DD,EE) Specific function called by SCHERM Calculate the value (nt(z)&#45;nm(z..." alt="" coords="223,938,282,964"/>
+<area shape="rect" id="node37" href="$dynac_8_f.html#a7e5934640edab2256f140f6bfdc92529" title=" FUNCTION grz(AA,BB,CC,DD,EE) specific function called by SCHERM " alt="" coords="344,988,384,1013"/>
+<area shape="rect" id="node40" href="$dynac_8_f90.html#af29265745ebbd2bcc7d476311bead151" title="rchsor" alt="" coords="223,788,282,813"/>
+<area shape="rect" id="node41" href="$dynac_8_f.html#a8dd11b9d02d39a4971b8493677fc199c" title=" FUNCTION dendif(Z,AA,BB,CC,DD) Specific function called by SCHERM Calculate the value (nt(z)&#45;nm(z)) ..." alt="" coords="224,837,281,862"/>
+<area shape="rect" id="node43" href="$dynac_8_f.html#a5cbed737069cd73c7aad89cc5f2d14d1" title=" FUNCTION denpd(XYZ,NMAXY,NMAZ) Specific function called by SCHERM Represents the distribution:(n(x)+..." alt="" coords="223,1037,282,1062"/>
+<area shape="rect" id="node45" href="$dynac_8_f90.html#aacf5759da96e422f4328a8baddf283b3" title="copdr" alt="" coords="225,1136,280,1161"/>
+<area shape="rect" id="node47" href="$dynac_8_f.html#aec64d905a5a0ef3ec8dcda0d95f006ab" title=" FUNCTION denrs(XYZ) Specific function called by SCHERM Calculate the distribution :(n(x)+n(y)+n(z))/..." alt="" coords="225,1086,280,1112"/>
+<area shape="rect" id="node46" href="$dynac_8_f.html#ad892b69d29ce15051b0bb1242b48a344" title=" FUNCTION copdr(XI,XF,KAP) Specific function called by SCHERM Calculate the Hermite coefficients for ..." alt="" coords="336,1136,391,1161"/>
+<area shape="rect" id="node49" href="$dynac_8_f.html#aa12374f7aa27f683812e025bfdda0df2" title=" FUNCTION varzr(EE,CC,NMAZR) Specific function called by SCHERM Calculate the rms sizes of th residua..." alt="" coords="227,1185,278,1210"/>
 </map>

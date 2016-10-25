@@ -1,16 +1,10 @@
 var searchData=
 [
-  ['vaprz',['vaprz',['../dynac_8_f90.html#aeabf3b375afebf3c76cf92bf88753dfa',1,'dynac.F90']]],
-  ['varia',['varia',['../dynac_8_f90.html#a86ed88460c39f8957a931b2543149989',1,'dynac.F90']]],
-  ['variz',['variz',['../dynac_8_f90.html#a40b4c20c82064d7c7ba151f68ed22485',1,'dynac.F90']]],
-  ['varxy',['varxy',['../unused_8_f90.html#a1b91bf5cc48066254072f9d7dd60ce1b',1,'unused.F90']]],
-  ['varzr',['varzr',['../unused_8_f90.html#a0056b16f87f861b2a4f2f6f8b7b24926',1,'unused.F90']]],
-  ['viii',['viii',['../namespaceselffields.html#a26318cc6b15ecb72f0254c70b96e4dc6',1,'selffields']]],
-  ['viip',['viip',['../namespaceselffields.html#a5751eab0fa98d8f85f3c5ae1a5cdd10e',1,'selffields']]],
-  ['vipi',['vipi',['../namespaceselffields.html#ab9995b0cf479443a3fea1f19f5d8c753',1,'selffields']]],
-  ['vipp',['vipp',['../namespaceselffields.html#a1daab187512a17b076b364e4bc1248c3',1,'selffields']]],
-  ['vpii',['vpii',['../namespaceselffields.html#a53280c03d59123d36d518e71f624edf2',1,'selffields']]],
-  ['vpip',['vpip',['../namespaceselffields.html#ad212a60425bab01988bbc47bd6b36c84',1,'selffields']]],
-  ['vppi',['vppi',['../namespaceselffields.html#a4326d8076f528446d7f31a61acdf499b',1,'selffields']]],
-  ['vppp',['vppp',['../namespaceselffields.html#a619d8e78dc9c9d5076cfdceb91027180',1,'selffields']]]
+  ['wfile1',['wfile1',['../_programming_2dynac_2plot_2dyndat_8f.html#ac46ae085248753c09b8a2728f0beed08',1,'dyndat.f']]],
+  ['wfile10',['wfile10',['../_programming_2dynac_2plot_2dyndat_8f.html#a34159f4d74567e5f8d5a348d07fd6cce',1,'dyndat.f']]],
+  ['wfile11',['wfile11',['../_programming_2dynac_2plot_2dyndat_8f.html#a63975dcacb6f9a0c7a4b381e58ec4dfc',1,'dyndat.f']]],
+  ['wfile2',['wfile2',['../_programming_2dynac_2plot_2dyndat_8f.html#a6163fb6deea7fa2b3f439d90ce8a0cb9',1,'dyndat.f']]],
+  ['wfile20',['wfile20',['../_programming_2dynac_2plot_2dyndat_8f.html#ab92f66e9a66b206aabb942867e633071',1,'dyndat.f']]],
+  ['wfile21',['wfile21',['../_programming_2dynac_2plot_2dyndat_8f.html#a6cdd1811295a69779d7a3fa8f21acf82',1,'dyndat.f']]],
+  ['wfile3',['wfile3',['../_programming_2dynac_2plot_2dyndat_8f.html#a48d701fc8b45d0b59789173b57a79c06',1,'dyndat.f']]]
 ];

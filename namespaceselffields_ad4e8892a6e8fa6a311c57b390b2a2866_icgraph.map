@@ -1,0 +1,32 @@
+<map id="selffields::eppp" name="selffields::eppp">
+<area shape="rect" id="node2" href="$namespaceselffields.html#a056d2a4d6963bdacb95e6b5d2f99f07f" title="beam self&#45;fields computation called by HERSC look for the parity of the currents lc,mc and nc compute the corresponding field components " alt="" coords="164,170,276,196"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="space charge method: HERSC " alt="" coords="324,170,378,196"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY. " alt="" coords="763,720,820,745"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="ETGAP or RESTAY ==&gt; GAP. " alt="" coords="539,170,583,196"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="select the space charge method (optical lenses) " alt="" coords="426,745,476,770"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="called by RESTAY and ETGAP " alt="" coords="649,46,712,72"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="called by RESTAY and ETGAP " alt="" coords="653,96,708,121"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="called by RESTAY and ETGAP " alt="" coords="656,145,705,170"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="called by RESTAY and ETGAP " alt="" coords="652,194,709,220"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="single cell of a DTL " alt="" coords="653,244,708,269"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="motion of particles in a cavity " alt="" coords="652,293,709,318"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#a8c89b992a39a162c0c003caf68293374" title="FIRST AND SECOND order MATRIX R AND T. " alt="" coords="650,342,711,368"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#a190464ddff78a324cec6f0a3372570bb" title="aimalv" alt="" coords="651,392,711,417"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#aa1d3d1d136ccdb66293586d0d14015e4" title="Dynamics through a single cell of a RFQ with multipolar expansion. " alt="" coords="651,493,710,518"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="magnetic sextupole " alt="" coords="654,542,707,568"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="QUADRUPOLE. " alt="" coords="534,594,587,620"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="quadrupole associated sextupole field " alt="" coords="532,644,589,669"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title="Solenoid with an arbitrary magnetic field. " alt="" coords="529,694,592,720"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="SOLENOID (fringe&#45;fields are included in the transport matrix) " alt="" coords="529,745,593,770"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD. " alt="" coords="527,794,595,820"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="DRIFT LENGHT. " alt="" coords="539,846,583,872"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#af97eaafe8944d301105cb8007175c419" title=" " alt="" coords="535,897,586,922"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#ac821ef6194c6456ba3b53b5607498c7d" title="rfq_parm" alt="" coords="524,948,598,973"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="electrostatic quadrupole " alt="" coords="534,1001,587,1026"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="electrostatic or magnetic quadrupole based on the strength K2 " alt="" coords="541,1057,580,1082"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#ae357d70d27aeaf4bcb83fcf431017dbb" title="dynamics of the bunch " alt="" coords="530,1121,592,1146"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="525,1200,597,1225"/>
+<area shape="rect" id="node23" href="$dynac_8_f90.html#ac30f0b8284e8e81a0879c40951623588" title="DIVIDE A DRIFT LENGHT OF :XL CM IN :NPART PARTIAL DRIFTS. " alt="" coords="657,897,704,922"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#a4c2aaccb9ee03a2f168acc18d838c2a5" title=" " alt="" coords="646,998,715,1024"/>
+<area shape="rect" id="node30" href="$dynac_8_f90.html#a882ad36e718ea53afe6fec1edadbdd6b" title="numerical computations of the dynamic in cavities or gap " alt="" coords="647,1150,715,1176"/>
+</map>

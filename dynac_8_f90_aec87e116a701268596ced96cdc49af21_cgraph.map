@@ -1,0 +1,51 @@
+<map id="hersc" name="hersc">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="133,5,194,31"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="GAUSS method. " alt="" coords="131,55,196,80"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="called by HERSC " alt="" coords="138,104,189,129"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="called by HERSC " alt="" coords="135,153,192,179"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="called by HERSC " alt="" coords="140,203,187,228"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="called by HERSC " alt="" coords="135,252,192,277"/>
+<area shape="rect" id="node13" href="$namespaceselffields.html#a056d2a4d6963bdacb95e6b5d2f99f07f" title="beam self&#45;fields computation called by HERSC look for the parity of the currents lc,mc and nc compute the corresponding field components " alt="" coords="107,1065,220,1091"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a18ccc9584f69b33056308ab40b17ea28" title="called by HERSC " alt="" coords="301,79,345,104"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#ae8ed0a9389a704fdecf8f7d8505a2077" title="pintfast" alt="" coords="291,128,355,153"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#a49416869726cfc4145f04a9d974dd0cf" title="the significant Hermite coefficients (called by HERSC) " alt="" coords="296,177,350,203"/>
+<area shape="rect" id="node9" href="$namespacerandlux.html#a3fb24ea3d02ef2815637035617c7a464" title="randlux::rlux" alt="" coords="438,128,531,153"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#ad4f54a42fc05f970f47f8f8b28516348" title="called by HERSC " alt="" coords="452,177,517,203"/>
+<area shape="rect" id="node14" href="$namespaceselffields.html#a92a4a2d17022caa98a34b4900f72a6ac" title="selffields::eipp" alt="" coords="270,351,376,376"/>
+<area shape="rect" id="node20" href="$namespaceselffields.html#af20378f984d1d9dac400381ef2f7d6bc" title="selffields::epip" alt="" coords="270,597,376,623"/>
+<area shape="rect" id="node26" href="$namespaceselffields.html#ab41d0aca94c80c0f5f344fb95998750f" title="selffields::eppi" alt="" coords="270,844,376,869"/>
+<area shape="rect" id="node32" href="$namespaceselffields.html#ad29a958fd0b1ea689d54317d61704f08" title="selffields::eipi" alt="" coords="272,1065,374,1091"/>
+<area shape="rect" id="node38" href="$namespaceselffields.html#a88e84f35ad9a03acac7c20feadf73ffc" title="selffields::epii" alt="" coords="272,1287,374,1312"/>
+<area shape="rect" id="node44" href="$namespaceselffields.html#ad4e8892a6e8fa6a311c57b390b2a2866" title="selffields::eppp" alt="" coords="268,1460,378,1485"/>
+<area shape="rect" id="node49" href="$namespaceselffields.html#a758aa7b9cda3821d82f2ec908f01b952" title="selffields::eiip" alt="" coords="272,1509,374,1535"/>
+<area shape="rect" id="node50" href="$namespaceselffields.html#a6d8cf72e5b656b17c152b7e630d8a54e" title="selffields::eiii" alt="" coords="274,1559,371,1584"/>
+<area shape="rect" id="node15" href="$namespaceselffields.html#a345fb2e557bc9f2a547986a0a268c2be" title="selffields::tipp" alt="" coords="433,227,536,252"/>
+<area shape="rect" id="node16" href="$namespaceselffields.html#a787dfebf591f86433d07447df2245b1c" title="selffields::sipp" alt="" coords="432,276,537,301"/>
+<area shape="rect" id="node17" href="$namespaceselffields.html#af5b4867e7796b3a2b2de972bb8c3c9d9" title="selffields::sgipp" alt="" coords="428,325,541,351"/>
+<area shape="rect" id="node18" href="$namespaceselffields.html#ac8583c3dc82156a08d3e209f63d2f374" title="selffields::uipp" alt="" coords="432,375,537,400"/>
+<area shape="rect" id="node19" href="$namespaceselffields.html#a1daab187512a17b076b364e4bc1248c3" title="selffields::vipp" alt="" coords="432,424,537,449"/>
+<area shape="rect" id="node21" href="$namespaceselffields.html#a5c84378ce1a62312c59442fa07d38d2d" title="selffields::tpip" alt="" coords="433,473,536,499"/>
+<area shape="rect" id="node22" href="$namespaceselffields.html#ab4b6a19d472cc93883fa735734d2ed00" title="selffields::spip" alt="" coords="432,523,537,548"/>
+<area shape="rect" id="node23" href="$namespaceselffields.html#a931ec6110c9d86fa556e461e60a3ec15" title="selffields::sgpip" alt="" coords="428,572,541,597"/>
+<area shape="rect" id="node24" href="$namespaceselffields.html#a917f8a1ac477f01e9ba88a0c8ced494e" title="selffields::upip" alt="" coords="432,621,537,647"/>
+<area shape="rect" id="node25" href="$namespaceselffields.html#ad212a60425bab01988bbc47bd6b36c84" title="selffields::vpip" alt="" coords="432,671,537,696"/>
+<area shape="rect" id="node27" href="$namespaceselffields.html#a67f78b12c689bd639ce03fa8886b6652" title="selffields::tppi" alt="" coords="433,720,536,745"/>
+<area shape="rect" id="node28" href="$namespaceselffields.html#a3d0f36de28e6d50dea90ca119a6069ef" title="selffields::sppi" alt="" coords="432,769,537,795"/>
+<area shape="rect" id="node29" href="$namespaceselffields.html#abebb1ef86a7bc3dafcc0b0db33ffd7de" title="selffields::sgppi" alt="" coords="428,819,541,844"/>
+<area shape="rect" id="node30" href="$namespaceselffields.html#a2a3d00396d79f6edfd223f01efa2dcd5" title="selffields::uppi" alt="" coords="432,868,537,893"/>
+<area shape="rect" id="node31" href="$namespaceselffields.html#a4326d8076f528446d7f31a61acdf499b" title="selffields::vppi" alt="" coords="432,917,537,943"/>
+<area shape="rect" id="node33" href="$namespaceselffields.html#a0bc24f2eafb51c54900184dbc7f0ac30" title="selffields::tipi" alt="" coords="436,967,533,992"/>
+<area shape="rect" id="node34" href="$namespaceselffields.html#acac1c1887686647e1bb7bf45c9bfe2b7" title="selffields::sipi" alt="" coords="434,1016,535,1041"/>
+<area shape="rect" id="node35" href="$namespaceselffields.html#a9f60166e6c6e03c62fbaa747615c3310" title="selffields::sgipi" alt="" coords="430,1065,539,1091"/>
+<area shape="rect" id="node36" href="$namespaceselffields.html#aba5ee3170c26345db9bf18a0c49d207b" title="selffields::uipi" alt="" coords="434,1115,535,1140"/>
+<area shape="rect" id="node37" href="$namespaceselffields.html#ab9995b0cf479443a3fea1f19f5d8c753" title="selffields::vipi" alt="" coords="434,1164,535,1189"/>
+<area shape="rect" id="node39" href="$namespaceselffields.html#aba7d02126173262e24d739f8aea30448" title="selffields::tpii" alt="" coords="436,1213,533,1239"/>
+<area shape="rect" id="node40" href="$namespaceselffields.html#a25162111f75712d475ff3810a3368059" title="selffields::spii" alt="" coords="434,1263,535,1288"/>
+<area shape="rect" id="node41" href="$namespaceselffields.html#a652fa774b78f500e3f7e85da517c55fe" title="selffields::sgpii" alt="" coords="430,1312,539,1337"/>
+<area shape="rect" id="node42" href="$namespaceselffields.html#a2a7308823ccb19ff15eb08bd82061418" title="selffields::upii" alt="" coords="434,1361,535,1387"/>
+<area shape="rect" id="node43" href="$namespaceselffields.html#a53280c03d59123d36d518e71f624edf2" title="selffields::vpii" alt="" coords="434,1411,535,1436"/>
+<area shape="rect" id="node45" href="$namespaceselffields.html#a4b3689aa95997033c01efa582524e88a" title="selffields::tppp" alt="" coords="431,1460,538,1485"/>
+<area shape="rect" id="node46" href="$namespaceselffields.html#a764b0c9749b71aa7d9d03e1e264608f3" title="selffields::sppp" alt="" coords="430,1509,539,1535"/>
+<area shape="rect" id="node47" href="$namespaceselffields.html#a7f986320855afb93d481834a7e3418ac" title="selffields::sgppp" alt="" coords="426,1559,543,1584"/>
+<area shape="rect" id="node48" href="$namespaceselffields.html#a4517db295ecde3e2137b5a7e7a6545de" title="selffields::uppp" alt="" coords="429,1608,540,1633"/>
+</map>

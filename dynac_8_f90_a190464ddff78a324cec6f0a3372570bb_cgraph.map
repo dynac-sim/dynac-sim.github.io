@@ -1,0 +1,51 @@
+<map id="aimalv" name="aimalv">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="ETGAP or RESTAY ==&gt; GAP. " alt="" coords="126,277,169,303"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a1da2b899ff818dd5daa6bb2e26590184" title="randali" alt="" coords="242,5,303,31"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="COG of TOF with regard the various charge states. " alt="" coords="389,351,450,376"/>
+<area shape="rect" id="node32" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject particles outside window set by REJECT card " alt="" coords="246,452,300,477"/>
+<area shape="rect" id="node33" href="$dynac_8_f90.html#a316de98d896ad9f6d11240c49155d919" title="CLEAR MATRIX R AND T. " alt="" coords="122,565,173,591"/>
+<area shape="rect" id="node34" href="$dynac_8_f90.html#a63a47a809d32c131e3e4989f144c4e6c" title="print first and second order matrix of a lens " alt="" coords="119,615,176,640"/>
+<area shape="rect" id="node35" href="$dynac_8_f90.html#adeabe25a3c05e822b60b10ac0f4600a9" title="BEAM COMPUTATION. " alt="" coords="113,664,182,689"/>
+<area shape="rect" id="node36" href="$dynac_8_f90.html#ac401f34a1b954f2007c58f4882146ff6" title=" " alt="" coords="119,713,176,739"/>
+<area shape="rect" id="node37" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="select the space charge method (optical lenses) " alt="" coords="123,763,172,788"/>
+<area shape="rect" id="node40" href="$dynac_8_f90.html#a1b5e23b46ff6ae1606dafb1c2317206b" title=" " alt="" coords="122,812,173,837"/>
+<area shape="rect" id="node41" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="123,932,172,957"/>
+<area shape="rect" id="node45" href="$dynac_8_f90.html#a98e89ebbb4cd47169457fbb20a58d648" title="Compute the dispersion dE/E with respect to the center of gravity of. " alt="" coords="125,981,170,1007"/>
+<area shape="rect" id="node46" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="following EMIT or EMITL card, store data in arrays to be printed by " alt="" coords="118,1104,177,1129"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a1857031432bd0b0751cf5897a727920e" title="called by ETGAP and RESTAY " alt="" coords="245,55,301,80"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#a8dcb4490fb5f9f0f8545f3467962e878" title="called by RESTAY and ETGAP " alt="" coords="245,104,301,129"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="called by RESTAY and ETGAP " alt="" coords="241,153,305,179"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="called by RESTAY and ETGAP " alt="" coords="245,203,300,228"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="called by RESTAY and ETGAP " alt="" coords="248,252,297,277"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="called by RESTAY and ETGAP " alt="" coords="244,301,301,327"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title="RESTAY or ETGAP ==&gt; GAP ==&gt; BOUCLE. " alt="" coords="242,351,303,376"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="389,400,450,425"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="space charge method: HERSC " alt="" coords="246,553,300,579"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="SCHERM space charge method. " alt="" coords="239,735,307,760"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="SCHEFF space charge method. " alt="" coords="241,784,305,809"/>
+<area shape="rect" id="node4" href="$namespacerandlux.html#a3fb24ea3d02ef2815637035617c7a464" title="randlux::rlux" alt="" coords="373,80,467,105"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#a31347c4f8066813a1b810042e430a2f7" title="called by RESTAY and ETGAP " alt="" coords="391,203,448,228"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#ab939a892089f5d5f8a34deb621341085" title=" " alt="" coords="400,252,439,277"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#a3d1749f35d2f78a9070ca20f0ba03781" title=" " alt="" coords="400,301,439,327"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="GAUSS method. " alt="" coords="388,449,452,475"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="called by HERSC " alt="" coords="395,499,445,524"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="called by HERSC " alt="" coords="391,548,448,573"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="called by HERSC " alt="" coords="396,597,443,623"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="called by HERSC " alt="" coords="391,647,449,672"/>
+<area shape="rect" id="node23" href="$namespaceselffields.html#a056d2a4d6963bdacb95e6b5d2f99f07f" title="beam self&#45;fields computation called by HERSC look for the parity of the currents lc,mc and nc compute the corresponding field components " alt="" coords="364,696,476,721"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#a007e94c954d9fa422a19d4214e0c1ec3" title="Shifts particle coordinates to a single point in time. Uses. " alt="" coords="391,943,448,968"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#a4e8520f6f7dc4f9cce4530ef067d7165" title="partial R.M.S. (called by SCHERM) " alt="" coords="390,992,450,1017"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#a8957d1df4b8f9bfe42a4bc8506252606" title="Computes the R.M.S. of the bunch at positions of space charge. " alt="" coords="392,745,448,771"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="Hermite polynomials. " alt="" coords="394,795,446,820"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#a841422ad15ec488dbf50b084353c034f" title="FACTORIAL of M. " alt="" coords="398,844,441,869"/>
+<area shape="rect" id="node30" href="$dynac_8_f90.html#a494c294f7ba11ebf6894531af4196060" title="specific function called by SCHERM " alt="" coords="397,893,443,919"/>
+<area shape="rect" id="node38" href="$dynac_8_f90.html#a1dd0ff75953fbf3e966d2588a9b212fa" title="seek the bunches in the beam separated or not " alt="" coords="244,833,302,859"/>
+<area shape="rect" id="node39" href="$dynac_8_f90.html#a183d62ff3c710fd9f129760e127f6ff1" title="SCHEFF_sep special space charge method. " alt="" coords="230,883,316,908"/>
+<area shape="rect" id="node42" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="BEAM ROTATION. " alt="" coords="244,932,302,957"/>
+<area shape="rect" id="node43" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="Calculate the c.o.g. of the bunch. " alt="" coords="251,1031,294,1056"/>
+<area shape="rect" id="node44" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="EXT2 looks for average extensions squared and returns them in array. " alt="" coords="249,981,296,1007"/>
+<area shape="rect" id="node47" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="EXT2D looks for average extensions squared and returns them in array. " alt="" coords="246,1080,300,1105"/>
+<area shape="rect" id="node48" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="analysis of emittance by elimination of remote particles in " alt="" coords="243,1129,303,1155"/>
+<area shape="rect" id="node49" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="analysis of emittance by elimination of remote particles in " alt="" coords="241,1179,305,1204"/>
+<area shape="rect" id="node50" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="analysis of emittance by elimination of remote particles in " alt="" coords="241,1228,305,1253"/>
+</map>

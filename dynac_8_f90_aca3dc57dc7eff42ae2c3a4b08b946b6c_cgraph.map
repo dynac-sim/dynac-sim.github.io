@@ -1,0 +1,51 @@
+<map id="solfield" name="solfield">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a09495bae17e8c266fa7c9ead60f4cea1" title="called by RESTAY " alt="" coords="125,128,175,153"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#a9e7061dec3592eb8148f616ab88cabf8" title="second derivative of spline functions at position (x,y) " alt="" coords="121,276,179,301"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#a1da2b899ff818dd5daa6bb2e26590184" title="randali" alt="" coords="119,325,180,351"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="125,375,175,400"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#a3e7182348e61e755c8df62fab5850dbf" title="SPLINE FUNCTION. " alt="" coords="122,523,178,548"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#a7329bc4eb621534e32e08f46887d50cd" title="fldsol" alt="" coords="124,696,176,721"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#a875d95ef6db803690ad967f05d701b0e" title="Calculates RC=RA*RB. " alt="" coords="116,944,183,969"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="select the space charge method (optical lenses) " alt="" coords="125,895,175,920"/>
+<area shape="rect" id="node45" href="$dynac_8_f90.html#a98e89ebbb4cd47169457fbb20a58d648" title="Compute the dispersion dE/E with respect to the center of gravity of. " alt="" coords="127,993,173,1019"/>
+<area shape="rect" id="node46" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="following EMIT or EMITL card, store data in arrays to be printed by " alt="" coords="121,473,179,499"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#acb12c6408a268725b0e03c012f166f36" title="Transit time factor t(k) (multi&#45;cells) " alt="" coords="257,29,300,55"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#a13964a07aa9bf1b75f017cae7e3c8240" title="Transit time factor s(k) (multi&#45;cells) " alt="" coords="255,79,302,104"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#a3b41e2443494df94d57251012ade34bd" title="Transit time factor dT(k)/dk (multi&#45;cells) " alt="" coords="257,128,300,153"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a1ab8d4755e09f5e96ceb95ac978dcfff" title="Transit time factor ds(k)/dk (multi&#45;cells) " alt="" coords="255,177,302,203"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a2c86499a1a629649dade2bdcc66ed37d" title="Transit time factor t(k) (single cell) " alt="" coords="410,5,450,31"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a0e9715b7ab9f5a1411a4a14a35feba8d" title="Electromagnetic field at the longitudinal point (z,0) " alt="" coords="406,104,453,129"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#aebc8f7e5bb5962a08f54033168470e6e" title="Transit time factor s(k) (single cell) " alt="" coords="408,55,451,80"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#a826652baf8a67c1e9fba6012c7630e2a" title="Transit time factor dT(k)/dk (single cell) " alt="" coords="410,153,450,179"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#a2086e50a90248b60aba9ac9495fbc6ae" title="Transit time factor dS(k)/dk (single cell) " alt="" coords="408,203,451,228"/>
+<area shape="rect" id="node14" href="$namespacerandlux.html#a3fb24ea3d02ef2815637035617c7a464" title="randlux::rlux" alt="" coords="231,227,325,252"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="BEAM ROTATION. " alt="" coords="249,276,308,301"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="Calculate the c.o.g. of the bunch. " alt="" coords="257,375,300,400"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="EXT2 looks for average extensions squared and returns them in array. " alt="" coords="255,325,302,351"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#a316de98d896ad9f6d11240c49155d919" title="CLEAR MATRIX R AND T. " alt="" coords="253,772,304,797"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#ab2de2aa9a4be19f698d20ca9ff0c1b5e" title="first order and second order R and T solenoid matrix " alt="" coords="254,621,303,647"/>
+<area shape="rect" id="node23" href="$dynac_8_f90.html#adeabe25a3c05e822b60b10ac0f4600a9" title="BEAM COMPUTATION. " alt="" coords="244,671,313,696"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="COG of TOF with regard the various charge states. " alt="" coords="399,747,460,772"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject particles outside window set by REJECT card " alt="" coords="251,821,305,847"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="399,895,460,920"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="space charge method: HERSC " alt="" coords="251,1167,305,1192"/>
+<area shape="rect" id="node36" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="SCHERM space charge method. " alt="" coords="244,920,312,945"/>
+<area shape="rect" id="node42" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="SCHEFF space charge method. " alt="" coords="246,871,310,896"/>
+<area shape="rect" id="node43" href="$dynac_8_f90.html#a1dd0ff75953fbf3e966d2588a9b212fa" title="seek the bunches in the beam separated or not " alt="" coords="250,969,307,995"/>
+<area shape="rect" id="node44" href="$dynac_8_f90.html#a183d62ff3c710fd9f129760e127f6ff1" title="SCHEFF_sep special space charge method. " alt="" coords="236,1019,321,1044"/>
+<area shape="rect" id="node30" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="GAUSS method. " alt="" coords="397,1289,462,1315"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="called by HERSC " alt="" coords="405,1339,455,1364"/>
+<area shape="rect" id="node32" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="called by HERSC " alt="" coords="401,1092,458,1117"/>
+<area shape="rect" id="node33" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="called by HERSC " alt="" coords="406,1141,453,1167"/>
+<area shape="rect" id="node34" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="called by HERSC " alt="" coords="401,1191,458,1216"/>
+<area shape="rect" id="node35" href="$namespaceselffields.html#a056d2a4d6963bdacb95e6b5d2f99f07f" title="beam self&#45;fields computation called by HERSC look for the parity of the currents lc,mc and nc compute the corresponding field components " alt="" coords="373,1240,486,1265"/>
+<area shape="rect" id="node37" href="$dynac_8_f90.html#a007e94c954d9fa422a19d4214e0c1ec3" title="Shifts particle coordinates to a single point in time. Uses. " alt="" coords="401,796,458,821"/>
+<area shape="rect" id="node38" href="$dynac_8_f90.html#a4e8520f6f7dc4f9cce4530ef067d7165" title="partial R.M.S. (called by SCHERM) " alt="" coords="400,845,460,871"/>
+<area shape="rect" id="node39" href="$dynac_8_f90.html#a8957d1df4b8f9bfe42a4bc8506252606" title="Computes the R.M.S. of the bunch at positions of space charge. " alt="" coords="402,1043,458,1068"/>
+<area shape="rect" id="node40" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="Hermite polynomials. " alt="" coords="404,944,456,969"/>
+<area shape="rect" id="node41" href="$dynac_8_f90.html#a841422ad15ec488dbf50b084353c034f" title="FACTORIAL of M. " alt="" coords="408,993,451,1019"/>
+<area shape="rect" id="node47" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="EXT2D looks for average extensions squared and returns them in array. " alt="" coords="251,424,305,449"/>
+<area shape="rect" id="node48" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="analysis of emittance by elimination of remote particles in " alt="" coords="248,473,308,499"/>
+<area shape="rect" id="node49" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="analysis of emittance by elimination of remote particles in " alt="" coords="247,523,310,548"/>
+<area shape="rect" id="node50" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="analysis of emittance by elimination of remote particles in " alt="" coords="247,572,310,597"/>
+</map>

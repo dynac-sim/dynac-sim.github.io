@@ -1,0 +1,7 @@
+<map id="zrotat" name="zrotat">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY. " alt="" coords="209,74,266,99"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="magnetic sextupole " alt="" coords="108,25,161,50"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="QUADRUPOLE. " alt="" coords="108,74,161,99"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="electrostatic quadrupole " alt="" coords="108,123,161,149"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="electrostatic or magnetic quadrupole based on the strength K2 " alt="" coords="115,173,154,198"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="cogetc" name="cogetc">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a7d60fe0b87d4ebb8d2326f814e79bd4b" title="RESTAY or ETGAP ==&gt; GAP ==&gt; BOUCLE. " alt="" coords="114,393,175,419"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#a190464ddff78a324cec6f0a3372570bb" title="aimalv" alt="" coords="349,507,409,532"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="magnetic sextupole " alt="" coords="232,659,285,684"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="QUADRUPOLE. " alt="" coords="232,860,285,885"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="quadrupole associated sextupole field " alt="" coords="230,909,287,935"/>
+<area shape="rect" id="node16" href="$dynac_8_f90.html#a7329bc4eb621534e32e08f46887d50cd" title="fldsol" alt="" coords="232,959,285,984"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="SOLENOID (fringe&#45;fields are included in the transport matrix) " alt="" coords="227,1008,290,1033"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD. " alt="" coords="224,1057,292,1083"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#a6968ad62b648dc1c4f6381c4134ed473" title=" " alt="" coords="117,21,171,47"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="electrostatic quadrupole " alt="" coords="232,208,285,233"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="electrostatic or magnetic quadrupole based on the strength K2 " alt="" coords="239,257,278,283"/>
+<area shape="rect" id="node23" href="$dynac_8_f90.html#a882ad36e718ea53afe6fec1edadbdd6b" title="numerical computations of the dynamic in cavities or gap " alt="" coords="224,456,292,481"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject particles outside window set by REJECT card " alt="" coords="117,701,171,727"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="223,557,294,583"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#af19cd8de0e39ead768ad8e346e57432b" title="ETGAP or RESTAY ==&gt; GAP. " alt="" coords="237,307,280,332"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a2c999ccb873df9e1e35314a7a2cb327a" title="called by RESTAY and ETGAP " alt="" coords="348,307,411,332"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a03b9f80e19d797ded00f836105e178e7" title="called by RESTAY and ETGAP " alt="" coords="352,109,407,135"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#ae2a63f33c779861f230ac4f272373937" title="called by RESTAY and ETGAP " alt="" coords="355,159,404,184"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#acb366e8320696b30bbfdf91275a20f39" title="called by RESTAY and ETGAP " alt="" coords="351,208,408,233"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#a14d25e771105f716a7d1a43d7a81353b" title="single cell of a DTL " alt="" coords="352,356,407,381"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a19e88952bbb6ddbd952ac7d60011cf78" title="motion of particles in a cavity " alt="" coords="350,405,408,431"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#a8c89b992a39a162c0c003caf68293374" title="FIRST AND SECOND order MATRIX R AND T. " alt="" coords="349,257,410,283"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY. " alt="" coords="464,633,521,659"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#aca3dc57dc7eff42ae2c3a4b08b946b6c" title="Solenoid with an arbitrary magnetic field. " alt="" coords="348,961,411,987"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#a5bb0e0fc441aaea4d3243c04d19850e0" title="BUNCHER (NO SPACE CHARGE EFFECT) " alt="" coords="342,809,416,835"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="DRIFT LENGHT. " alt="" coords="237,708,280,733"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#a5a965b6f9532b45faa0d00cfcfaa6f6f" title="RFKICK (NO SPACE CHARGE EFFECT) " alt="" coords="353,760,406,785"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#ac30f0b8284e8e81a0879c40951623588" title="DIVIDE A DRIFT LENGHT OF :XL CM IN :NPART PARTIAL DRIFTS. " alt="" coords="356,659,403,684"/>
+</map>

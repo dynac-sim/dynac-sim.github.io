@@ -1,0 +1,51 @@
+<map id="fdrift" name="fdrift">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#addb2ec0bcf630af70f6b1f5725711e29" title="DRIFT LENGHT. " alt="" coords="101,455,144,480"/>
+<area shape="rect" id="node46" href="$dynac_8_f90.html#aa2928097dcf160093cc1d9eb621a7e6f" title="following EMIT or EMITL card, store data in arrays to be printed by " alt="" coords="192,331,251,356"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a881e0a9ceaa69799a037634203635eec" title="stapl" alt="" coords="197,429,246,455"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#a277be55d7493c5e416c4305460bc2812" title="select the space charge method (optical lenses) " alt="" coords="197,827,246,852"/>
+<area shape="rect" id="node43" href="$dynac_8_f90.html#a98e89ebbb4cd47169457fbb20a58d648" title="Compute the dispersion dE/E with respect to the center of gravity of. " alt="" coords="198,479,244,504"/>
+<area shape="rect" id="node44" href="$dynac_8_f90.html#a7d79f3a1e458832e50a5059f3b3d51d3" title="reject particles outside window set by REJECT card " alt="" coords="194,877,248,903"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a04be1f67aa572b7c0644382c292537ae" title="BEAM ROTATION. " alt="" coords="312,479,371,504"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#aba035293717295fad9fda40af58c0b27" title="Calculate the c.o.g. of the bunch. " alt="" coords="320,380,363,405"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#aa97cf85ec0e5e0abd82520136abbe2bc" title="EXT2 looks for average extensions squared and returns them in array. " alt="" coords="318,429,365,455"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#aec87e116a701268596ced96cdc49af21" title="space charge method: HERSC " alt="" coords="314,976,368,1001"/>
+<area shape="rect" id="node17" href="$dynac_8_f90.html#ae6958b340447550eb288c054184d7bb3" title="SCHERM space charge method. " alt="" coords="307,528,375,553"/>
+<area shape="rect" id="node36" href="$dynac_8_f90.html#ab7191e3ea20adf49b80195f518f4fa88" title="SCHEFF space charge method. " alt="" coords="309,1249,373,1275"/>
+<area shape="rect" id="node39" href="$dynac_8_f90.html#a1dd0ff75953fbf3e966d2588a9b212fa" title="seek the bunches in the beam separated or not " alt="" coords="312,827,370,852"/>
+<area shape="rect" id="node40" href="$dynac_8_f90.html#a183d62ff3c710fd9f129760e127f6ff1" title="SCHEFF_sep special space charge method. " alt="" coords="299,1375,384,1400"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#adc2a33834571d2d40904ea3c80d72fe2" title="shuffle" alt="" coords="458,853,519,879"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a7386644f1574bd4ba019cc2eab9ac103" title="GAUSS method. " alt="" coords="456,1149,521,1175"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#a22275f8a6b248b5d634a3ed2873ad597" title="called by HERSC " alt="" coords="463,1199,513,1224"/>
+<area shape="rect" id="node13" href="$dynac_8_f90.html#afbda7483923e3c63dd74e318cfa7f8ba" title="called by HERSC " alt="" coords="460,903,517,928"/>
+<area shape="rect" id="node14" href="$dynac_8_f90.html#ac5a1961a4571e9d062d040be46ac3172" title="called by HERSC " alt="" coords="465,952,512,977"/>
+<area shape="rect" id="node15" href="$dynac_8_f90.html#a463c77e57caf807854c687ec09eac623" title="called by HERSC " alt="" coords="460,1001,517,1027"/>
+<area shape="rect" id="node16" href="$namespaceselffields.html#a056d2a4d6963bdacb95e6b5d2f99f07f" title="beam self&#45;fields computation called by HERSC look for the parity of the currents lc,mc and nc compute the corresponding field components " alt="" coords="432,1051,545,1076"/>
+<area shape="rect" id="node12" href="$dynac_8_f90.html#a18ccc9584f69b33056308ab40b17ea28" title="called by HERSC " alt="" coords="600,1199,645,1224"/>
+<area shape="rect" id="node18" href="$dynac_8_f90.html#a007e94c954d9fa422a19d4214e0c1ec3" title="Shifts particle coordinates to a single point in time. Uses. " alt="" coords="460,1100,517,1125"/>
+<area shape="rect" id="node19" href="$dynac_8_f90.html#a4e8520f6f7dc4f9cce4530ef067d7165" title="partial R.M.S. (called by SCHERM) " alt="" coords="593,803,652,828"/>
+<area shape="rect" id="node20" href="$dynac_8_f90.html#a8957d1df4b8f9bfe42a4bc8506252606" title="Computes the R.M.S. of the bunch at positions of space charge. " alt="" coords="594,647,651,672"/>
+<area shape="rect" id="node21" href="$dynac_8_f90.html#a0ade359d0feda89940cbab4ae1f79b47" title="Hermite polynomials. " alt="" coords="597,104,648,129"/>
+<area shape="rect" id="node22" href="$dynac_8_f90.html#a841422ad15ec488dbf50b084353c034f" title="FACTORIAL of M. " alt="" coords="601,231,644,256"/>
+<area shape="rect" id="node23" href="$dynac_8_f90.html#a494c294f7ba11ebf6894531af4196060" title="specific function called by SCHERM " alt="" coords="465,305,511,331"/>
+<area shape="rect" id="node24" href="$dynac_8_f90.html#ae0a8495cd680854cc866ba6722247bcb" title="specific function called by SCHERM " alt="" coords="456,355,521,380"/>
+<area shape="rect" id="node25" href="$dynac_8_f90.html#a45630a7b878fd332d0d5eb873f2047b7" title="schermi1" alt="" coords="451,256,526,281"/>
+<area shape="rect" id="node26" href="$dynac_8_f90.html#a6d8259aa867a6719ffe574bc103f618e" title="Calculate the bean self fields acting on each particle (called by. " alt="" coords="597,491,648,516"/>
+<area shape="rect" id="node27" href="$dynac_8_f90.html#aeabf3b375afebf3c76cf92bf88753dfa" title="specific function called by SCHERM " alt="" coords="461,404,515,429"/>
+<area shape="rect" id="node28" href="$dynac_8_f90.html#aba411def6530892558c27b24458051da" title="specific function called by SCHERM " alt="" coords="464,453,513,479"/>
+<area shape="rect" id="node29" href="$dynac_8_f90.html#a42fc82e2ac8e809f27537f26607d2510" title="specific function called by SCHERM " alt="" coords="463,5,513,31"/>
+<area shape="rect" id="node30" href="$dynac_8_f90.html#af29265745ebbd2bcc7d476311bead151" title="specific function called by SCHERM " alt="" coords="459,503,518,528"/>
+<area shape="rect" id="node31" href="$dynac_8_f90.html#a86ed88460c39f8957a931b2543149989" title="specific function called by SCHERM " alt="" coords="463,552,513,577"/>
+<area shape="rect" id="node32" href="$dynac_8_f90.html#afccdce0c58edfcace00f1c330f84cb30" title="specific function called by SCHERM " alt="" coords="460,55,516,80"/>
+<area shape="rect" id="node33" href="$dynac_8_f90.html#ae5b685dc12fb7deb747ca26fe6f0e82b" title="specific function called by SCHERM " alt="" coords="468,601,508,627"/>
+<area shape="rect" id="node34" href="$dynac_8_f90.html#a40b4c20c82064d7c7ba151f68ed22485" title="specific function called by SCHERM " alt="" coords="464,651,513,676"/>
+<area shape="rect" id="node35" href="$dynac_8_f90.html#a66e0af4abd306b8a78a38cf885fd9c25" title="specific function called by SCHERM " alt="" coords="464,104,513,129"/>
+<area shape="rect" id="node37" href="$dynac_8_f90.html#a2a030cd6b6c1b09fbaa871cfcd59be97" title="called by SCHEFF " alt="" coords="601,1351,644,1376"/>
+<area shape="rect" id="node38" href="$dynac_8_f90.html#aa582fe59d81832591f5cc1a8041f2575" title="called by SCHEFF " alt="" coords="463,1351,513,1376"/>
+<area shape="rect" id="node41" href="$dynac_8_f90.html#a73472db93cb2f665e404dd80441b506d" title="Shifts particle coordinates to a single point in time. Uses. " alt="" coords="456,1449,521,1475"/>
+<area shape="rect" id="node42" href="$dynac_8_f90.html#ae19868525ca94d8c9c655609659dd42a" title="partial R.M.S. (called by SCHEFF_sep) " alt="" coords="464,1400,513,1425"/>
+<area shape="rect" id="node45" href="$dynac_8_f90.html#af4b0da4c6bc00761d0db2dd21e512dcc" title="COG of TOF with regard the various charge states. " alt="" coords="311,1424,372,1449"/>
+<area shape="rect" id="node47" href="$dynac_8_f90.html#a8326ce1d7c08f4040ae61547daa0122e" title="EXT2D looks for average extensions squared and returns them in array. " alt="" coords="314,281,368,307"/>
+<area shape="rect" id="node48" href="$dynac_8_f90.html#af32bc74393be6ab332bfe5dcbc6e8715" title="analysis of emittance by elimination of remote particles in " alt="" coords="311,331,371,356"/>
+<area shape="rect" id="node49" href="$dynac_8_f90.html#adcc921f0ce0e879232c064004365ff9d" title="analysis of emittance by elimination of remote particles in " alt="" coords="310,183,373,208"/>
+<area shape="rect" id="node50" href="$dynac_8_f90.html#a20153f9a1e928872e3a59ec6b1fdec4b" title="analysis of emittance by elimination of remote particles in " alt="" coords="310,232,373,257"/>
+</map>

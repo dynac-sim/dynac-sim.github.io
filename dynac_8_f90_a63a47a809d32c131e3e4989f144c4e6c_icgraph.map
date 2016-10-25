@@ -1,0 +1,12 @@
+<map id="matrix" name="matrix">
+<area shape="rect" id="node2" href="$dynac_8_f90.html#a066f5d5f443dcbbe6d095e4ab011cbf4" title="magnetic sextupole " alt="" coords="120,5,173,31"/>
+<area shape="rect" id="node4" href="$dynac_8_f90.html#a4bebd1a9e4da83d8451b51142c55a51d" title="QUADRUPOLE. " alt="" coords="120,55,173,80"/>
+<area shape="rect" id="node5" href="$dynac_8_f90.html#a9d9f4ec48922e34909dc9becb429b96c" title="quadrupole associated sextupole field " alt="" coords="118,104,175,129"/>
+<area shape="rect" id="node6" href="$dynac_8_f90.html#a1f7dab6d617ff222bf91cce59b4bf2fe" title="SOLENOID (fringe&#45;fields are included in the transport matrix) " alt="" coords="115,153,179,179"/>
+<area shape="rect" id="node7" href="$dynac_8_f90.html#a07e9d54c1ec138291b7227967a66fdf1" title="SOLENOID FIELD ASSOCIATED WITH QUADRUPOLE FIELD. " alt="" coords="113,203,181,228"/>
+<area shape="rect" id="node8" href="$dynac_8_f90.html#a13fbdc6930dba66c44cbd4d8e3c7dac0" title="electrostatic quadrupole " alt="" coords="120,252,173,277"/>
+<area shape="rect" id="node9" href="$dynac_8_f90.html#af85cd57d0e9cbb1752f342e7855c097e" title="electrostatic or magnetic quadrupole based on the strength K2 " alt="" coords="127,301,166,327"/>
+<area shape="rect" id="node10" href="$dynac_8_f90.html#a190464ddff78a324cec6f0a3372570bb" title="aimalv" alt="" coords="117,351,177,376"/>
+<area shape="rect" id="node11" href="$dynac_8_f90.html#aca60ec3a547a015a94a435acd66ae23f" title="e_deflec" alt="" coords="111,400,183,425"/>
+<area shape="rect" id="node3" href="$dynac_8_f90.html#a50f4bf9b30e7988963f5e1b55fb62120" title="THIS SOFTWARE WAS ORIGINALLY PRODUCED BY CERN/PS, CEN/SACLAY. " alt="" coords="231,203,288,228"/>
+</map>
